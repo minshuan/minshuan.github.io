@@ -8,8 +8,504 @@ venue: 'Journal 1'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-krry{background-color:#f8e2c7;border-color:#000000;color:#fd6864;text-align:left;vertical-align:top}
+.tg .tg-cn3s{background-color:#ecf4ff;border-color:#000000;font-style:italic;text-align:center;vertical-align:top}
+.tg .tg-65px{background-color:#ecf4ff;border-color:#000000;text-align:left;vertical-align:top}
+.tg .tg-7ky6{background-color:#F8E2C7;border-color:#000000;text-align:center;vertical-align:top}
+.tg .tg-iorn{background-color:#f8e2c7;border-color:#000000;color:#000000;font-style:italic;text-align:center;vertical-align:top}
+.tg .tg-66r8{background-color:#9aff99;border-color:#000000;font-style:italic;text-align:center;vertical-align:top}
+.tg .tg-vqdg{border-color:#000000;font-size:24px;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-n576{background-color:#f8e2c7;border-color:#000000;color:#000000;text-align:center;vertical-align:top}
+.tg .tg-v8v5{background-color:#f8e2c7;border-color:#000000;color:#FD6864;font-style:italic;text-align:center;vertical-align:top}
+.tg .tg-zpao{background-color:#f8e2c7;border-color:#000000;color:#FD6864;text-align:center;vertical-align:top}
+.tg .tg-1a9d{background-color:#9aff99;border-color:#000000;text-align:left;vertical-align:top}
+.tg .tg-qhnr{background-color:#ecf4ff;border-color:#000000;text-align:center;vertical-align:top}
+.tg .tg-g5fl{background-color:#f8e2c7;border-color:#000000;font-style:italic;text-align:center;vertical-align:top}
+.tg .tg-2avm{background-color:#f8e2c7;border-color:#000000;text-align:center;vertical-align:top}
+.tg .tg-w090{background-color:#f8e2c7;border-color:#000000;text-align:left;vertical-align:top}
+.tg .tg-k0nx{background-color:#9aff99;border-color:#000000;text-align:center;vertical-align:top}
+.tg .tg-0b3k{background-color:#f8e2c7;border-color:#000000;color:#fd6864;text-align:center;vertical-align:top}
+.tg .tg-4rj3{background-color:#f8e2c7;border-color:#000000;color:#fd6864;font-style:italic;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-vqdg">學名</th>
+    <th class="tg-vqdg">亞種名</th>
+    <th class="tg-vqdg">中文俗名</th>
+    <th class="tg-vqdg">來源</th>
+    <th class="tg-vqdg">同義詞</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-g5fl">Pilodendron <span style="font-style:italic">angustialutum</span></td>
+    <td class="tg-2avm"></td>
+    <td class="tg-2avm">長葉蔓綠絨</td>
+    <td class="tg-2avm">wc. Peru</td>
+    <td class="tg-g5fl"></td>
+  </tr>
+  <tr>
+    <td class="tg-g5fl">Philodendron <span style="font-style:italic">anisotomun</span></td>
+    <td class="tg-2avm"></td>
+    <td class="tg-2avm"></td>
+    <td class="tg-2avm">wc. Costa Rica</td>
+    <td class="tg-g5fl">Philodendron dagilla<br>Philodendron trisectum<br>Philodendron fenzlii</td>
+  </tr>
+  <tr>
+    <td class="tg-g5fl">Pilodendron <span style="font-style:italic">applanatum</span></td>
+    <td class="tg-2avm"></td>
+    <td class="tg-2avm">平柄蔓綠絨</td>
+    <td class="tg-2avm">wc. Peru</td>
+    <td class="tg-g5fl"></td>
+  </tr>
+  <tr>
+    <td class="tg-iorn" rowspan="2">Philodendron billietiae</td>
+    <td class="tg-n576"></td>
+    <td class="tg-n576">橘柄蔓綠絨</td>
+    <td class="tg-n576">seed</td>
+    <td class="tg-iorn"></td>
+  </tr>
+  <tr>
+    <td class="tg-n576">'black'</td>
+    <td class="tg-n576">黑橘柄蔓綠絨</td>
+    <td class="tg-n576"></td>
+    <td class="tg-iorn"></td>
+  </tr>
+  <tr>
+    <td class="tg-g5fl">Philodendron bipennifolium</td>
+    <td class="tg-w090"></td>
+    <td class="tg-2avm">琴葉蔓綠絨</td>
+    <td class="tg-w090"></td>
+    <td class="tg-g5fl">Philodendron wayombense</td>
+  </tr>
+  <tr>
+    <td class="tg-iorn">Philodendron brandtianum</td>
+    <td class="tg-n576"></td>
+    <td class="tg-n576">白蘭地蔓綠絨</td>
+    <td class="tg-n576"></td>
+    <td class="tg-iorn"></td>
+  </tr>
+  <tr>
+    <td class="tg-iorn">Philodendron callosum</td>
+    <td class="tg-n576"></td>
+    <td class="tg-n576">棒葉豬皮蔓綠絨</td>
+    <td class="tg-n576">wc.Bolivarian</td>
+    <td class="tg-iorn"><span style="font-style:italic">Philodendron ptarianum Steyerm</span></td>
+  </tr>
+  <tr>
+    <td class="tg-iorn">Philodendron camposportoanum</td>
+    <td class="tg-n576"></td>
+    <td class="tg-n576">兔耳蔓綠絨</td>
+    <td class="tg-n576"></td>
+    <td class="tg-iorn"></td>
+  </tr>
+  <tr>
+    <td class="tg-iorn">Philodendron crassinervium</td>
+    <td class="tg-n576"></td>
+    <td class="tg-n576">粗肋蔓綠絨</td>
+    <td class="tg-n576">wc.Brazil</td>
+    <td class="tg-iorn">BraArum lanceolatum Vell.<br>Caladium platynervium <br>Philodendron lanceolatum <br>Philodendron planinervium </td>
+  </tr>
+  <tr>
+    <td class="tg-g5fl">Philodendron deflexum</td>
+    <td class="tg-2avm"></td>
+    <td class="tg-2avm"></td>
+    <td class="tg-2avm">wc.Peru</td>
+    <td class="tg-g5fl"></td>
+  </tr>
+  <tr>
+    <td class="tg-g5fl">Pilodendron distantilobum</td>
+    <td class="tg-2avm"></td>
+    <td class="tg-2avm">遠裂蔓綠絨</td>
+    <td class="tg-2avm">wc.Brazil</td>
+    <td class="tg-g5fl"></td>
+  </tr>
+  <tr>
+    <td class="tg-g5fl">Philodendron ernestii</td>
+    <td class="tg-2avm"></td>
+    <td class="tg-2avm">恩氏蔓綠絨</td>
+    <td class="tg-2avm">wc.Brazil</td>
+    <td class="tg-g5fl"></td>
+  </tr>
+  <tr>
+    <td class="tg-66r8">Philodendron erubescens</td>
+    <td class="tg-k0nx"></td>
+    <td class="tg-k0nx">紅帝王蔓綠絨</td>
+    <td class="tg-k0nx">TC</td>
+    <td class="tg-66r8"></td>
+  </tr>
+  <tr>
+    <td class="tg-g5fl" rowspan="2">Philodendron esmeraldense</td>
+    <td class="tg-w090"></td>
+    <td class="tg-2avm">ESM蔓綠絨</td>
+    <td class="tg-w090"></td>
+    <td class="tg-w090" rowspan="2"></td>
+  </tr>
+  <tr>
+    <td class="tg-2avm">'narrow form'</td>
+    <td class="tg-w090"></td>
+    <td class="tg-w090"></td>
+  </tr>
+  <tr>
+    <td class="tg-g5fl">Philodendron eximium</td>
+    <td class="tg-2avm"></td>
+    <td class="tg-2avm">團扇蔓綠絨<br>圓扇蔓綠絨</td>
+    <td class="tg-2avm">wc.Brazil</td>
+    <td class="tg-g5fl">Arum amphibium<br>Philodendron amphibium<br>Philodendron cardiophyllum<br>Philodendron sauerianum</td>
+  </tr>
+  <tr>
+    <td class="tg-g5fl">Philodendron fibraecataphyllum</td>
+    <td class="tg-2avm"></td>
+    <td class="tg-2avm">青蘋果蔓綠絨</td>
+    <td class="tg-2avm">wc.Peru</td>
+    <td class="tg-g5fl">Philodendron sp.'Peru'</td>
+  </tr>
+  <tr>
+    <td class="tg-n576"><span style="font-style:italic;color:#FD6864">Philodendron genevievianum</span></td>
+    <td class="tg-0b3k"></td>
+    <td class="tg-0b3k"></td>
+    <td class="tg-0b3k">wc.French Guiana</td>
+    <td class="tg-0b3k"></td>
+  </tr>
+  <tr>
+    <td class="tg-g5fl">Philodendron geniculatum</td>
+    <td class="tg-w090"></td>
+    <td class="tg-w090"></td>
+    <td class="tg-w090"></td>
+    <td class="tg-w090"></td>
+  </tr>
+  <tr>
+    <td class="tg-g5fl">Philodendron giganteum</td>
+    <td class="tg-2avm"></td>
+    <td class="tg-2avm">大理石蔓綠絨</td>
+    <td class="tg-2avm">TC</td>
+    <td class="tg-g5fl"></td>
+  </tr>
+  <tr>
+    <td class="tg-g5fl">Pilodendron gigas</td>
+    <td class="tg-2avm"></td>
+    <td class="tg-2avm">牡蠣蔓綠絨</td>
+    <td class="tg-2avm"></td>
+    <td class="tg-g5fl"></td>
+  </tr>
+  <tr>
+    <td class="tg-66r8" rowspan="2">Philodendron gloriosum</td>
+    <td class="tg-k0nx">'O' form </td>
+    <td class="tg-k0nx">圓柄錦緞蔓綠絨</td>
+    <td class="tg-k0nx"></td>
+    <td class="tg-66r8" rowspan="2">Anthurium gloriosum</td>
+  </tr>
+  <tr>
+    <td class="tg-k0nx">'D' form</td>
+    <td class="tg-k0nx">扁柄錦緞蔓綠絨</td>
+    <td class="tg-k0nx"></td>
+  </tr>
+  <tr>
+    <td class="tg-g5fl">Philodendron grazielae</td>
+    <td class="tg-2avm"></td>
+    <td class="tg-2avm">愛心蔓綠絨</td>
+    <td class="tg-2avm"></td>
+    <td class="tg-g5fl"></td>
+  </tr>
+  <tr>
+    <td class="tg-g5fl">Philodendron hastatum</td>
+    <td class="tg-2avm"></td>
+    <td class="tg-2avm">銀箭蔓綠絨</td>
+    <td class="tg-2avm"></td>
+    <td class="tg-g5fl">Philodendron disparile<br>Philodendron elongatum<br>Philodendron hastifolium<br>Philodendron simsii</td>
+  </tr>
+  <tr>
+    <td class="tg-g5fl" rowspan="3">Philodendron hederaceum</td>
+    <td class="tg-2avm"></td>
+    <td class="tg-2avm">心葉蔓綠絨<br>桃心蔓綠絨</td>
+    <td class="tg-2avm"></td>
+    <td class="tg-g5fl" rowspan="3"></td>
+  </tr>
+  <tr>
+    <td class="tg-2avm">'variegated'</td>
+    <td class="tg-w090">斑葉桃心蔓綠絨</td>
+    <td class="tg-w090"></td>
+  </tr>
+  <tr>
+    <td class="tg-2avm">'Rio'</td>
+    <td class="tg-2avm">里約蔓綠絨</td>
+    <td class="tg-w090"></td>
+  </tr>
+  <tr>
+    <td class="tg-g5fl">Philodendron heterocraspedon</td>
+    <td class="tg-2avm"></td>
+    <td class="tg-2avm"></td>
+    <td class="tg-2avm"></td>
+    <td class="tg-g5fl"></td>
+  </tr>
+  <tr>
+    <td class="tg-g5fl">Philodendron hopkinsianum</td>
+    <td class="tg-2avm"></td>
+    <td class="tg-2avm">冰裂瓷蔓綠絨</td>
+    <td class="tg-2avm"></td>
+    <td class="tg-g5fl">Philodendron hopkinsianum 'Burle Marx Fantasy'</td>
+  </tr>
+  <tr>
+    <td class="tg-v8v5">Philodendron lapoanum</td>
+    <td class="tg-zpao"></td>
+    <td class="tg-zpao"></td>
+    <td class="tg-zpao"></td>
+    <td class="tg-v8v5"></td>
+  </tr>
+  <tr>
+    <td class="tg-g5fl">Philodendron lacerum</td>
+    <td class="tg-2avm"></td>
+    <td class="tg-2avm">淺裂蔓綠絨</td>
+    <td class="tg-2avm"></td>
+    <td class="tg-g5fl">Arum lacerum<br>Caladium lacerum<br>Philodendron albovaginatum<br>Philodendron incisocrenatum<br>Philodendron lacerum var. albovaginatum</td>
+  </tr>
+  <tr>
+    <td class="tg-cn3s">Philodendron linnaei</td>
+    <td class="tg-qhnr"></td>
+    <td class="tg-qhnr"></td>
+    <td class="tg-qhnr"></td>
+    <td class="tg-cn3s">Philodendron decurrens<br>Philodendron nobile<br>Philodendron notabile</td>
+  </tr>
+  <tr>
+    <td class="tg-g5fl">Philodendron lupinum</td>
+    <td class="tg-2avm"></td>
+    <td class="tg-2avm"></td>
+    <td class="tg-2avm"></td>
+    <td class="tg-g5fl"></td>
+  </tr>
+  <tr>
+    <td class="tg-66r8">Philodendron mamei</td>
+    <td class="tg-k0nx"></td>
+    <td class="tg-k0nx">白雲蔓綠絨</td>
+    <td class="tg-k0nx"></td>
+    <td class="tg-66r8"></td>
+  </tr>
+  <tr>
+    <td class="tg-66r8">Philodendron martianum</td>
+    <td class="tg-k0nx"></td>
+    <td class="tg-k0nx">泡泡蔓綠絨<br>立葉蔓綠絨</td>
+    <td class="tg-k0nx"></td>
+    <td class="tg-k0nx"><span style="font-style:italic">Caladium crassipes</span><br><span style="font-style:italic">Caladium macropus</span><br><span style="font-style:italic">Philodendron cannifolium</span></td>
+  </tr>
+  <tr>
+    <td class="tg-2avm"><span style="font-style:italic">Philodendron maximum</span></td>
+    <td class="tg-2avm"></td>
+    <td class="tg-2avm">巨大蔓綠絨</td>
+    <td class="tg-2avm"></td>
+    <td class="tg-2avm"></td>
+  </tr>
+  <tr>
+    <td class="tg-2avm"><span style="font-style:italic">Philodendron mayoi</span></td>
+    <td class="tg-2avm"></td>
+    <td class="tg-2avm">瑪友蔓綠絨</td>
+    <td class="tg-2avm"></td>
+    <td class="tg-2avm"></td>
+  </tr>
+  <tr>
+    <td class="tg-2avm"><span style="font-style:italic">Philodendron megalophyllum</span></td>
+    <td class="tg-2avm"></td>
+    <td class="tg-2avm"></td>
+    <td class="tg-2avm"></td>
+    <td class="tg-2avm"><span style="font-style:italic">Anthurium stahelii</span></td>
+  </tr>
+  <tr>
+    <td class="tg-2avm"><span style="font-style:italic">Philodendron melanochrysum</span></td>
+    <td class="tg-2avm"></td>
+    <td class="tg-2avm">絨葉蔓綠絨</td>
+    <td class="tg-2avm"></td>
+    <td class="tg-2avm"><span style="font-style:italic">Philodendron andreanum</span><br><span style="font-style:italic">Philodendron grandidens</span></td>
+  </tr>
+  <tr>
+    <td class="tg-2avm"><span style="font-style:italic">Philodendron mexicanum</span></td>
+    <td class="tg-2avm"></td>
+    <td class="tg-2avm">墨西哥蔓綠絨</td>
+    <td class="tg-2avm"></td>
+    <td class="tg-2avm"><span style="font-style:italic">Philodendron mexicanum</span><br><span style="font-style:italic">Philodendron latisagittium</span></td>
+  </tr>
+  <tr>
+    <td class="tg-2avm" rowspan="2"><span style="font-style:italic">Philodendron minarum</span></td>
+    <td class="tg-2avm"></td>
+    <td class="tg-2avm">金龍蔓綠絨</td>
+    <td class="tg-2avm"></td>
+    <td class="tg-2avm" rowspan="2"></td>
+  </tr>
+  <tr>
+    <td class="tg-2avm">'cloud'</td>
+    <td class="tg-2avm">雲斑金龍蔓綠絨</td>
+    <td class="tg-2avm"></td>
+  </tr>
+  <tr>
+    <td class="tg-2avm"><span style="font-style:italic">Philodendron panduriforme</span></td>
+    <td class="tg-2avm"></td>
+    <td class="tg-2avm">爪葉蔓綠絨</td>
+    <td class="tg-2avm"></td>
+    <td class="tg-2avm"><span style="font-style:italic">Philodendron latilobum</span><br><span style="font-style:italic">Pothos panduriformis</span></td>
+  </tr>
+  <tr>
+    <td class="tg-4rj3">Philodendron paloraense</td>
+    <td class="tg-krry"></td>
+    <td class="tg-0b3k">怕羅拉蔓綠絨<br>三叉戟蔓綠絨<br>海神蔓綠絨</td>
+    <td class="tg-krry"></td>
+    <td class="tg-krry"></td>
+  </tr>
+  <tr>
+    <td class="tg-2avm" rowspan="3"><span style="font-style:italic">Philodendron pedatum</span></td>
+    <td class="tg-w090"></td>
+    <td class="tg-2avm">綠龍爪蔓綠絨</td>
+    <td class="tg-w090"></td>
+    <td class="tg-2avm" rowspan="3"><span style="font-style:italic">Caladium pedatum</span><br><span style="font-style:italic">Dracontium laciniatum</span><br><span style="font-style:italic">Philodendron amazonicum</span><br><span style="font-style:italic">Philodendron duisbergii</span><br><span style="font-style:italic">Philodendron laciniatum</span><br><span style="font-style:italic">Philodendron laciniosum</span><br><span style="font-style:italic">Philodendron polypodioides</span><br><span style="font-style:italic">Philodendron quercifolium</span><br><span style="font-style:italic">Philodendr</span>on weddellianum</td>
+  </tr>
+  <tr>
+    <td class="tg-2avm">'glad hands'</td>
+    <td class="tg-2avm">快樂手蔓綠絨</td>
+    <td class="tg-w090"></td>
+  </tr>
+  <tr>
+    <td class="tg-2avm">'polypodioides'</td>
+    <td class="tg-2avm">細葉龍爪蔓綠絨</td>
+    <td class="tg-w090"></td>
+  </tr>
+  <tr>
+    <td class="tg-g5fl">Philodendron radiatum</td>
+    <td class="tg-w090"></td>
+    <td class="tg-2avm">拉迪亞蔓綠絨<br>輻射蔓綠絨</td>
+    <td class="tg-w090"></td>
+    <td class="tg-g5fl">Philodendron augustinum<br>Philodendron impolitum<br>Philodendron polytomum</td>
+  </tr>
+  <tr>
+    <td class="tg-66r8" rowspan="2">Philodendron rugosum</td>
+    <td class="tg-1a9d"></td>
+    <td class="tg-k0nx">豬皮蔓綠絨</td>
+    <td class="tg-1a9d"></td>
+    <td class="tg-1a9d" rowspan="2"></td>
+  </tr>
+  <tr>
+    <td class="tg-k0nx">'Sow's Ear'</td>
+    <td class="tg-k0nx">捲耳豬皮蔓綠絨</td>
+    <td class="tg-1a9d"></td>
+  </tr>
+  <tr>
+    <td class="tg-cn3s">Philodendron ruizii</td>
+    <td class="tg-qhnr">'No.3'</td>
+    <td class="tg-qhnr"></td>
+    <td class="tg-qhnr">wc.Ecuador</td>
+    <td class="tg-qhnr"></td>
+  </tr>
+  <tr>
+    <td class="tg-g5fl">Philodendron scherberichii</td>
+    <td class="tg-w090"></td>
+    <td class="tg-w090"></td>
+    <td class="tg-2avm">wc.Colombia</td>
+    <td class="tg-w090"></td>
+  </tr>
+  <tr>
+    <td class="tg-g5fl">Philodendron sharroniae</td>
+    <td class="tg-2avm"></td>
+    <td class="tg-2avm">沙倫蔓綠絨<br>長葉洗衣板蔓綠絨</td>
+    <td class="tg-2avm">wc.Ecuador</td>
+    <td class="tg-g5fl">Philodendron sharroniae 'goat'</td>
+  </tr>
+  <tr>
+    <td class="tg-2avm"></td>
+    <td class="tg-2avm">'san antonio'</td>
+    <td class="tg-2avm"></td>
+    <td class="tg-2avm">wc.Ecuador</td>
+    <td class="tg-2avm"></td>
+  </tr>
+  <tr>
+    <td class="tg-2avm"></td>
+    <td class="tg-2avm">'Mosquera'</td>
+    <td class="tg-2avm"></td>
+    <td class="tg-2avm">wc.Colombia</td>
+    <td class="tg-2avm"></td>
+  </tr>
+  <tr>
+    <td class="tg-g5fl">Philodendron smithii</td>
+    <td class="tg-w090"></td>
+    <td class="tg-w090"></td>
+    <td class="tg-2avm">wc.Nicaragua</td>
+    <td class="tg-w090"></td>
+  </tr>
+  <tr>
+    <td class="tg-g5fl">Philodendron squamiferum</td>
+    <td class="tg-w090"></td>
+    <td class="tg-2avm">鱗葉蔓綠絨<br>紅毛柄蔓綠絨</td>
+    <td class="tg-w090"></td>
+    <td class="tg-g5fl">Philodendron aceriferum<br>Philodendron crinipes<br>Philodendron crinitum</td>
+  </tr>
+  <tr>
+    <td class="tg-cn3s">Philodendron stenolobum</td>
+    <td class="tg-65px"></td>
+    <td class="tg-qhnr">狹葉蔓綠絨</td>
+    <td class="tg-65px"></td>
+    <td class="tg-65px"></td>
+  </tr>
+  <tr>
+    <td class="tg-g5fl">Philodendron subhastatum</td>
+    <td class="tg-w090"></td>
+    <td class="tg-2avm">紅背蔓綠絨</td>
+    <td class="tg-w090"></td>
+    <td class="tg-g5fl">Philodendron hastatum</td>
+  </tr>
+  <tr>
+    <td class="tg-g5fl">Philodendron tenue</td>
+    <td class="tg-w090"></td>
+    <td class="tg-w090">寬葉洗衣板蔓綠絨</td>
+    <td class="tg-w090"></td>
+    <td class="tg-g5fl">Philodendron ecuadorense<br>Philodendron gracile<br>Philodendron sodiroanum</td>
+  </tr>
+  <tr>
+    <td class="tg-g5fl" rowspan="2">Philodendron tortum</td>
+    <td class="tg-2avm"></td>
+    <td class="tg-2avm">魚骨蔓綠絨</td>
+    <td class="tg-2avm" rowspan="2"></td>
+    <td class="tg-2avm" rowspan="2"></td>
+  </tr>
+  <tr>
+    <td class="tg-2avm">'wide form'</td>
+    <td class="tg-2avm">寬魚骨蔓綠絨</td>
+  </tr>
+  <tr>
+    <td class="tg-g5fl" rowspan="2">Philodendron tripartitum</td>
+    <td class="tg-2avm"></td>
+    <td class="tg-2avm" rowspan="2">三裂蔓綠絨</td>
+    <td class="tg-2avm" rowspan="2"></td>
+    <td class="tg-g5fl" rowspan="2">Arum tripartitum<br>Caladium trifoliatum<br>Caladium tripartitum<br>Philodendron affine<br>Philodendron fenzlii<br>Philodendron holtonianum<br>Philodendron trilobatum<br>Philodendron tripartitum var. holtonianum<br>Philodendron tripartitum var. tricuspidatum</td>
+  </tr>
+  <tr>
+    <td class="tg-w090">'holtonianum'</td>
+  </tr>
+  <tr>
+    <td class="tg-g5fl">Philodendron verrucosum</td>
+    <td class="tg-w090"></td>
+    <td class="tg-2avm">花葉蔓綠絨<br>毛柄蔓綠絨</td>
+    <td class="tg-w090"></td>
+    <td class="tg-g5fl">Philodendron carderi<br>Philodendron daguense<br>Philodendron discolor<br>Philodendron lindenii<br>Philodendron pilatonense</td>
+  </tr>
+  <tr>
+    <td class="tg-g5fl" rowspan="2">Philodendron warszewiczii</td>
+    <td class="tg-2avm"></td>
+    <td class="tg-2avm">木瓜蔓綠絨</td>
+    <td class="tg-2avm" rowspan="2"></td>
+    <td class="tg-2avm" rowspan="2"></td>
+  </tr>
+  <tr>
+    <td class="tg-2avm">'gold'</td>
+    <td class="tg-2avm">黃金木瓜蔓綠絨</td>
+  </tr>
+  <tr>
+    <td class="tg-g5fl">Philodendron wenereri</td>
+    <td class="tg-w090"></td>
+    <td class="tg-w090"></td>
+    <td class="tg-7ky6">wc.Ecuador</td>
+    <td class="tg-w090"></td>
+  </tr>
+</tbody>
+</table>
