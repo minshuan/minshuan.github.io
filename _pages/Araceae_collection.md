@@ -45,7 +45,7 @@ redirect_from:
     }
     .heatMap tr:nth-child(1) { background: red; }
     .heatMap tr:nth-child(2) { background: orange; }
-
+    .heatMap tr:nth-child(3) { background: green; }
 </style>
 
 <div class="heatMap">
