@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hom epage"
+title: "Home page"
 excerpt: "About me"
 author_profile: true
 redirect_from:

@@ -1,36 +1,35 @@
 ---
 layout: archive
 permalink: /Araceae_collection/
-title: "Araceaecollection"
+title: "Araceae collection"
 author_profile: true
 redirect_from:
 ---
 
 ## 總覽
 
-- [水龍骨科 Polypodiaceae](#Polypodiaceae)
-  - [鹿角蕨屬 Platycerium](#Platycerium)
-    - [原生種](#OriginPlatycerium)
-    - [園藝種](#GardenPlatycerium)
+- [天南星總科 Araceae](#Araceae)
+  - [蔓綠絨屬 Philodendron](#Philodendron)
+    - [原生種](#OriginPhilodendron)
+    - [園藝種](#GardenPhilodendron)
 
-<a name="Polypodiaceae"></a>
+<a name="Araceae"></a>
 
-## 水龍骨科 *Polypodiaceae*
+## 天南星總科 *Araceae*
 
-<a name="Platycerium"></a>
+<a name="Philodendron"></a>
 
-## 鹿角蕨屬 *Platycerium*
+## 蔓綠絨屬 *Philodendron*
 
-<a name="OriginPlatycerium"></a>
+<a name="OriginPhilodendron"></a>
 
 ### 原生種
 
-|中文俗名|學名|
-|:-:|:-:|
-|安地斯鹿角蕨|*Platycerium* andinum|
-|圓盾鹿角蕨|*Platycerium* alcicorne|
+|學名|同義詞|中文俗名|
+|:-:|:-:|:-:|
+<td bgcolor="Coral">|a|</td>b|c|
 
-<a name="GardenPlatycerium"></a>
+<a name="GardenPhilodendron"></a>
 
 ### 園藝種
 
