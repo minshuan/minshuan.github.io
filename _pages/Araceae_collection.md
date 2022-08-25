@@ -25,9 +25,14 @@ redirect_from:
 
 ### 原生種
 
-|學名|同義詞|中文俗名|
-|:-:|:-:|:-:|
-<td bgcolor="Coral">|a|</td>b|c|
+<table>
+<tr>
+<th>學名</th><th>同義詞</th><th>中文俗名</th><th>來源</th>
+</tr>
+<tr>
+<th>Philodendron lupinum</th>
+</tr>
+</table>
 
 <a name="GardenPhilodendron"></a>
 
