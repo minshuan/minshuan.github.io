@@ -32,13 +32,8 @@ redirect_from:
 <tr>
 <td>Philodendron lupinum</td><td>Philodendron lupinum</td><td>Philodendron lupinum</td><td>Philodendron lupinum</td>
 </tr>
-
 </table>
 
 <a name="GardenPhilodendron"></a>
 
 ### 園藝種
-
-|中文俗名|學名|
-|:-:|:-:|
-|||
