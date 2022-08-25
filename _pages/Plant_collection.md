@@ -1,11 +1,12 @@
 ---
+layout: archive
 permalink: /Plant_collection/
 title: "Plant Collection"
 author_profile: true
 redirect_from:
-  - /md/
-  - /markdown.html
 ---
+
+## 總覽
 
 - [水龍骨科 Polypodiaceae](#Polypodiaceae)
   - [鹿角蕨屬 Platycerium](#Platycerium)
@@ -13,9 +14,16 @@ redirect_from:
     - [園藝種](#GardenPlatycerium)
 
 <a name="Polypodiaceae"></a>
-A
+
+## 水龍骨科 *Polypodiaceae*
+
 <a name="Platycerium"></a>
+
+## 鹿角蕨屬 *Platycerium*
+
 <a name="OriginPlatycerium"></a>
+
+### 原生種
 
 |中文俗名|學名|
 |:-:|:-:|
@@ -23,6 +31,8 @@ A
 |圓盾鹿角蕨|*Platycerium* alcicorne|
 
 <a name="GardenPlatycerium"></a>
+
+### 園藝種
 
 |中文俗名|學名|
 |:-:|:-:|
