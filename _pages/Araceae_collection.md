@@ -30,33 +30,9 @@ redirect_from:
 <th>學名</th><th>同義詞</th><th>中文俗名</th><th>來源</th>
 </tr>
 <tr>
-<td>Philodendron lupinum</td>
+<td>Philodendron lupinum</td><td>Philodendron lupinum</td><td>Philodendron lupinum</td><td>Philodendron lupinum</td>
 </tr>
 </table>
-
-<style>
-    .heatMap {
-        text-align: center;
-    }
-    .heatMap th {
-        background: grey;
-        word-wrap: break-word;
-        text-align: center;
-    }
-    .heatMap tr:nth-child(1) { background: red; }
-    .heatMap tr:nth-child(2) { background: orange; }
-    .heatMap tr:nth-child(3) { background: green; }
-</style>
-
-<div class="heatMap">
-
-| 學名 |亞種|中文俗名|來源|
-| -- | -- | -- | -- |
-| This | is | a | Red Row |
-| This | is | an | Orange Row |
-| This | is | a | Green Row |
-
-</div>
 
 <a name="GardenPhilodendron"></a>
 
