@@ -1,7 +1,7 @@
 ---
 layout: archive
-permalink: /Plant_collection/
-title: "Plant Collection"
+permalink: /Fern_collection/
+title: "Fern Collection"
 author_profile: true
 redirect_from:
 ---
