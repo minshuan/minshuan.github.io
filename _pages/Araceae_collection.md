@@ -32,7 +32,7 @@ redirect_from:
 |編號|學名|亞種名|中文俗名|來源|同義詞|備註|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |1.|*Pilodendron angustialutum*||長葉蔓綠絨|IMP. Peru||
-|2.|*Philodendron anisotomun*|||IMP. Costa Rica|*Philodendron dagilla Philodendron trisectum Philodendron fenzlii*|
+|2.|*Philodendron anisotomun*|||IMP. Costa Rica|*Philodendron dagilla<br>Philodendron trisectum Philodendron fenzlii*|
 |3.|*Pilodendron applanatum*||平柄蔓綠絨|IMP. Peru||
 |4.|*Philodendron billietiae*||橘柄蔓綠絨|||
 |5.||'black'|黑橘柄蔓綠絨|||
