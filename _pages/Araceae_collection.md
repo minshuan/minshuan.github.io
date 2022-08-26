@@ -11,8 +11,9 @@ redirect_from:
 - [天南星總科 Araceae](#Araceae)
   - [蔓綠絨屬 Philodendron](#Philodendron)
     - [原生種 Indigenous species](#IndigenousPhilodendron)
-      - [附生](#IndigenousClimber)
-      - [地生](#IndigenousCrawler)
+      - [附生 Climber](#IndigenousClimber)
+      - [地生 Crawler](#IndigenousCrawler)
+      - [未發表 Unpublished to science](#Unpublished)
     - [園藝種 garden species](#GardenPhilodendron)
 
 <a name="Araceae"></a>
@@ -95,7 +96,7 @@ redirect_from:
 |57.|*Philodendron warszewiczii*||木瓜蔓綠絨|||
 |||'gold'|黃金木瓜蔓綠絨|||
 |58.|*Philodendron wenereri*|||IMP.Ecuador||
-|59.|*Philodendron* x 'joepii'||喬皮蔓綠絨<br>丁字褲蔓綠絨|TC||natural hybrid<br>pos.<br>*Philodendron bipennifolium*<br>X<br>*Philodendron pedatum*|
+|59.|*Philodendron* x 'joepii'||喬皮蔓綠絨<br>丁字褲蔓綠絨|TC||natural hybrid<br>pos.<br>*bipennifolium*<br>X<br>*pedatum*|
 
 ## 地生 Crawler
 
@@ -110,3 +111,8 @@ redirect_from:
 |64.|*Philodendron martianum*||泡泡蔓綠絨<br>立葉蔓綠絨||*Caladium crassipes<br>Caladium macropus<br>Philodendron cannifolium*|
 |65.|*Philodendron rugosum*||豬皮蔓綠絨|||
 |66||'Sow's Ear'|捲耳豬皮蔓綠絨|||
+
+## 未發表 Unpublished to science
+|編號|學名|品型|中文俗名|來源|同義詞|備註|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|67.|*Philodendron albovirescens*|||IMP.Colombia|||
