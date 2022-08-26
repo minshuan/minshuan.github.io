@@ -124,6 +124,23 @@ redirect_from:
 
 <a name="GardenPhilodendron"></a>
 
-|編號|學名|品型|中文俗名|來源|同義詞|備註|
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|1|2|3|4|5|6|7|
+|編號|名稱|中文俗名|其他名稱|備註|
+|:-:|:-:|:-:|:-:|:-:|
+|1|2|3|4|5|
+||*Philodendron erubescens* 'black cardinal'|黑主教蔓綠絨|||
+||*Philodendron erubescens* 'dark lord'|黑帝王蔓綠絨|||
+||*Philodendron erubescens* 'Painted Lady'|灑金蔓綠絨||Philodendron erubescens 'Burgundy'<br>X<br>Philodendron erubescens 'Emerald Queen'|
+||*Philodendron erubescens* 'pink princess'|粉紅公主蔓綠絨|||
+||*Philodendron erubescens* 'white knight'|白騎士蔓綠絨|||
+||*Philodendron erubescens* 'white princess'|白公主蔓綠絨|||
+||*Philodendron erubescens* 'white wizard'|白巫師蔓綠絨|||
+||*Philodendron* 'florida'|佛羅里達蔓綠絨<br>龍爪蔓綠絨|Philodendron 'rudolf'|pos<br>*Philodendron pedatum*<br>X<br>*Philodendron squamiferum*|
+||*Philodendron* 'florida beauty'|斑葉龍爪蔓綠絨<br>佛羅里達美人||var. form *Philodendron* 'florida'|
+||*Philodendron* 'florida ghost'|幽靈龍爪蔓綠絨<br>佛羅里達幽靈||var. form *Philodendron* 'florida'|
+||*Philodendron hederaceum* 'brasil'|巴西蔓綠絨<br>斑葉心葉蔓綠絨<br>班葉桃心蔓綠絨|||
+||*Philodendron hederaceum* 'lemon'|黃金新葉蔓綠絨|||
+||*Philodendron hederaceum* 'rio'|里約蔓綠絨|||
+||*Philodendron imbe* 'Burle Marx'|獨角獸蔓綠絨|||
+||*Philodendron imbe* 'Burle Marx var.'|斑葉獨角獸蔓綠絨|||
+||*Philodendron pedatum* 'glad hands'|快樂手龍爪蔓綠絨|||
+||*Philodendron pedatum* 'quercifolium'|細葉龍爪蔓綠絨|||
