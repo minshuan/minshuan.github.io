@@ -103,9 +103,9 @@ redirect_from:
 
 ## 原生種 Indigenous species
 
-## 附生 Climber
-
 <a name="IndigenousClimber"></a>
+
+## 附生 Climber
 
 |編號|學名|品型|中文俗名|來源|同義詞|備註|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -169,9 +169,9 @@ redirect_from:
 |67|*Philodendron wenereri*|||IMP.Ecuador||
 |68|*Philodendron* x 'joepii'||喬皮蔓綠絨<br>丁字褲蔓綠絨|TC||natural hybrid<br>pos.<br>*bipennifolium*<br>X<br>*pedatum*|
 
-## 地生 Crawler
-
 <a name="IndigenousCrawler"></a>
+
+## 地生 Crawler
 
 |編號|學名|品型|中文俗名|來源|同義詞|備註|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -183,9 +183,9 @@ redirect_from:
 |74|*Philodendron rugosum*||豬皮蔓綠絨|||
 |75||'Sow's Ear'|捲耳豬皮蔓綠絨|||
 
-## 未發表或存在爭議 Unpublished to science or others
-
 <a name="UnpublishedPhilodendron"></a>
+
+## 未發表或存在爭議 Unpublished to science or others
 
 |編號|學名|品型|中文俗名|來源|同義詞|備註|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -194,9 +194,9 @@ redirect_from:
 |78|*Philodendron paloraense*||怕羅拉蔓綠絨<br>三叉戟蔓綠絨<br>海神蔓綠絨 |||
 |79|*Philodendron sodiroi*||所迪羅蔓綠絨<br>說的容易蔓綠絨|*philodendron ornatum* 'sodiroi'<br>*Philodendron sp.*'silver'|||
 
-## 園藝種 garden species
-
 <a name="GardenPhilodendron"></a>
+
+## 園藝種 garden species
 
 |編號|學名|中文俗名|其他名稱|備註|
 |:-:|:-:|:-:|:-:|:-:|
