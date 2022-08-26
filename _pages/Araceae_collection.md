@@ -113,6 +113,17 @@ redirect_from:
 |66||'Sow's Ear'|捲耳豬皮蔓綠絨|||
 
 ## 未發表 Unpublished to science
+
+<a name="Unpublished"></a>
+
 |編號|學名|品型|中文俗名|來源|同義詞|備註|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |67.|*Philodendron albovirescens*|||IMP.Colombia|||
+
+## 園藝種 garden species
+
+<a name="GardenPhilodendron"></a>
+
+|編號|學名|品型|中文俗名|來源|同義詞|備註|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|1|2|3|4|5|6|7|
