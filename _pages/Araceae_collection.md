@@ -47,15 +47,15 @@ redirect_from:
 |14.|*Philodendron erubescens*||紅帝王蔓綠絨|||
 |15.|*Philodendron esmeraldense*||ESM蔓綠絨|||
 |16.||'narrow form'||||
-|17.|*Philodendron eximium*||團扇蔓綠絨 圓扇蔓綠絨||*Arum amphibium<br>Philodendron amphibium<br>Philodendron cardiophyllum<br>Philodendron sauerianum*|
-|18.|*Philodendron fibraecataphyllum*||青蘋果蔓綠絨 祕魯蔓綠絨|IMP.Peru|*Philodendron sp.*'Peru'|
+|17.|*Philodendron eximium*||團扇蔓綠絨<br>圓扇蔓綠絨||*Arum amphibium<br>Philodendron amphibium<br>Philodendron cardiophyllum<br>Philodendron sauerianum*|
+|18.|*Philodendron fibraecataphyllum*||青蘋果蔓綠絨<br>祕魯蔓綠絨|IMP.Peru|*Philodendron sp.*'Peru'|
 |19.|*Philodendron genevievianum*|||IMP.French Guiana||
 |20.|*Philodendron geniculatum*|||||
 |21.|*Philodendron giganteum*||大理石蔓綠絨|TC||
 |22.|*Pilodendron gigas*||牡蠣蔓綠絨|||
-|23.|*Philodendron grazielae*||愛心蔓綠絨 腎葉蔓綠絨|||
+|23.|*Philodendron grazielae*||愛心蔓綠絨<br>腎葉蔓綠絨|||
 |24.|*Philodendron hastatum*||銀箭蔓綠絨||*Philodendron disparile<br>Philodendron elongatum<br>Philodendron hastifolium<br>Philodendron simsii*|
-|25.|*Philodendron hederaceum*||心葉蔓綠絨 桃心蔓綠絨||||
+|25.|*Philodendron hederaceum*||心葉蔓綠絨<br>桃心蔓綠絨||||
 |26.|*Philodendron heterocraspedon*||||
 |27.|*Philodendron hopkinsianum*||冰裂瓷蔓綠絨||*Philodendron sp.* 'Burle Marx Fantasy'|
 |28.|*Philodendron lapoanum*|||||
@@ -69,25 +69,25 @@ redirect_from:
 |36.|*Philodendron minarum*||金龍蔓綠絨|||
 |||'cloud'|雲斑金龍蔓綠絨||||
 |37.|*Philodendron panduriforme*||爪葉蔓綠絨||*Philodendron latilobum<br>Pothos panduriformis*|
-|38.|*Philodendron paloraense*||怕羅拉蔓綠絨 三叉戟蔓綠絨 海神蔓綠絨 |||
+|38.|*Philodendron paloraense*||怕羅拉蔓綠絨<br>三叉戟蔓綠絨<br>海神蔓綠絨 |||
 |39.|*Philodendron pedatum*||綠龍爪蔓綠絨||*Caladium pedatum<br>Dracontium laciniatum<br>Philodendron amazonicum<br>Philodendron duisbergii<br>Philodendron laciniatum<br>Philodendron laciniosum <br>Philodendron polypodioides<br>Philodendron quercifolium<br>Philodendron weddellianum*|
 |||'glad hands'|快樂手蔓綠絨 |||
 |||'polypodioides'|龍骨蔓綠絨|||
-|40.|*Philodendron radiatum*||拉迪亞蔓綠絨 輻射蔓綠絨||*Philodendron augustinum<br>Philodendron impolitum<br>Philodendron polytomum*|
+|40.|*Philodendron radiatum*||拉迪亞蔓綠絨<br>輻射蔓綠絨||*Philodendron augustinum<br>Philodendron impolitum<br>Philodendron polytomum*|
 |41.|*Philodendron scherberichii|||IMP.Colombia*||
-|42.|*Philodendron sharroniae*||沙倫蔓綠絨 長葉洗衣板蔓綠絨|IMP.Ecuador||
+|42.|*Philodendron sharroniae*||沙倫蔓綠絨<br>長葉洗衣板蔓綠絨|IMP.Ecuador||
 |43.||'san antonio'<br>'goat'||IMP.Ecuador||
 |44.||'Mosquera'||wc.Colombia||
 |45.|*Philodendron smithii*|||IMP.Nicaragua||
-|46.|*Philodendron squamiferum*||鱗葉蔓綠絨 紅毛柄蔓綠絨||*Philodendron aceriferum<br>Philodendron crinipes<br>Philodendron crinitum*|
-|47.|*Philodendron stenolobum*||狹葉蔓綠絨 羊角蔓綠絨|||
+|46.|*Philodendron squamiferum*||鱗葉蔓綠絨<br>紅毛柄蔓綠絨||*Philodendron aceriferum<br>Philodendron crinipes<br>Philodendron crinitum*|
+|47.|*Philodendron stenolobum*||狹葉蔓綠絨<br>羊角蔓綠絨|||
 |48.|*Philodendron subhastatum*||紅背蔓綠絨||*Philodendron hastatum*|
 |49.|*Philodendron tenue*||寬葉洗衣板蔓綠絨||*Philodendron ecuadorense<br>Philodendron gracile<br>Philodendron sodiroanum*|
 |50.|*Philodendron tortum*||魚骨蔓綠絨|||
 |51.||'wide'|寬魚骨蔓綠絨|||
 |52.|*Philodendron tripartitum*||三裂蔓綠絨||*Arum tripartitum<br>Caladium trifoliatum<br>Caladium tripartitum<br>Philodendron affine<br>Philodendron fenzlii<br>Philodendron holtonianum<br> Philodendron trilobatum<br>Philodendron tripartitum var.holtonianum<br>Philodendron tripartitum var.tricuspidatum*|
 |53.||'holtonianum'  ||||
-|54.|*Philodendron verrucosum*||花葉蔓綠絨 毛柄蔓綠絨|IMP.Ecuador|*Philodendron carderi<br>Philodendron daguense<br>Philodendron discolor<br>Philodendron lindenii<br>Philodendron pilatonense*|
+|54.|*Philodendron verrucosum*||花葉蔓綠絨<br>毛柄蔓綠絨|IMP.Ecuador|*Philodendron carderi<br>Philodendron daguense<br>Philodendron discolor<br>Philodendron lindenii<br>Philodendron pilatonense*|
 |55.|*Philodendron warszewiczii*||木瓜蔓綠絨|||
 |||'gold'|黃金木瓜蔓綠絨|||
 |56.|*Philodendron wenereri*|||IMP.Ecuador||
