@@ -13,15 +13,15 @@ redirect_from:
 - [園藝種 garden species](#GardenAlocasia)
 - [未發表或存在爭議 Unpublished to science or others](#UnpublishedAlocasia)
 
-# 觀音蓮算是非常早期就被輸入台灣的觀葉植物種類，該屬分布也十分廣泛
-# 台灣路邊看到的姑婆芋也是該屬的物種之一
+# 觀音蓮算是非常早期就被輸入台灣的觀葉植物種類，該屬分布也十分廣泛，台灣路邊看到的姑婆芋也是該屬的物種之一
+
 # 早期也有經歷過大亂交時代，許多園藝種的父母本都難以考究
 
 龜速更新中，歡迎大家提供成熟株圖片給我做種類簡介
 
 ## 原生種 Indigenous species
 
-|編號|學名|品型|中文俗名|來源|同義詞|備註|
+|學名|品型|中文俗名|來源|同義詞|備註|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |*Alocasia Micholitziana*||絨葉觀音蓮||*Alocasia micholitziana* 'frydek'<br>*Alocasia frydek*<br>Alocasia 'elephen ears'||
 |*Alocasia odora*||姑婆芋|| *Arum odorum*<br>*Caladium odorum*||
@@ -33,7 +33,7 @@ redirect_from:
 
 ## 園藝種 garden species
 
-|編號|學名|中文俗名|其他名稱|備註|
+|學名|中文俗名|其他名稱|備註|
 |:-:|:-:|:-:|:-:|:-:|
 |*Alocasia* 'bambino arrow'|小仙女觀音蓮||garden species<br>from<br>*Alocasia* × 'amazonica'|
 |*Alocasia* 'bambino arrow' var.|斑葉小仙女觀音蓮||*Alocasia* 'bambino arrow'<br>variegata|
@@ -47,7 +47,7 @@ redirect_from:
 
 ## 未發表或存在爭議 Unpublished to science or others
 
-|編號|學名|中文俗名|其他名稱|備註|
+|學名|中文俗名|其他名稱|備註|
 |:-:|:-:|:-:|:-:|:-:|
 |*Alocasia* 'Jacklyn'|傑克林觀音蓮||Unpublished|
 |*Alocasia* 'sabrina'|窄葉傑克林觀音蓮|*Alocasia* 'Jacklyn' narrow form|Unpublished |
