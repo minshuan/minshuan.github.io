@@ -1,20 +1,20 @@
 # main links links
 main:
 
-  - title: "海芋屬(觀音蓮) / *Alocasia*"
+  - title: "海芋屬 / Alocasia"
     url: /Alocasia/
 
-  - title: "火鶴屬(花燭) / *Anthurium*"
+  - title: "火鶴屬 / Anthurium"
     url: /Anthurium/
 
-  - title: "蔓綠絨屬(喜林芋) / *Philodendron*"
+  - title: "蔓綠絨屬 / Philodendron"
     url: /Philodendron/
 
-  - title: "個人天南星科收藏 / Araceae collection"
+  - title: "個人收藏(天南星) / Araceae collection"
     url: /Araceae_collection/
 
-  - title: "個人蕨類收藏 / Fern collection"
-    url: /Fern_collection/
+  # - title: "個人蕨類收藏 / Fern collection"
+  #   url: /Fern_collection/
 
   # - title: "Talks"
   #   url: /talks/
