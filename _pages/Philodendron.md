@@ -15,6 +15,12 @@ redirect_from:
 - [未發表或存在爭議 Unpublished to science or others](#UnpublishedPhilodendron)
 - [園藝種 garden species](#GardenPhilodendron)
 
+# 蔓綠絨也是非常早期就被輸入台灣的觀葉植物種類，常被拿來做為盆花與室內植物
+
+# 早期常使用的大天使蔓綠絨(*Thaumatophyllum bipinnatifidum*)與小天使蔓綠絨(*Thaumatophyllum xanadu*)已在2018年被分到新成立的鵝掌芋屬(*Thaumatophyllum*)正式被踢出*Philo*.家族
+
+![](images/1661619969721.png)
+
 <a name="IndigenousPhilodendron"></a>
 
 ## 原生種 Indigenous species
