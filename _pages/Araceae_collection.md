@@ -112,7 +112,7 @@ redirect_from:
 |1|*Pilodendron angustialutum*||長葉蔓綠絨|IMP. Peru||
 |2|*Philodendron anisotomun*|||IMP. Costa Rica|*Philodendron dagilla<br>Philodendron trisectum<br>Philodendron fenzlii*|
 |3|*Pilodendron applanatum*||平柄蔓綠絨|IMP. Peru||
-|4|Philodendron atabapoense||阿塔巴蔓綠絨<br>假聖靈蔓綠絨|||
+|4|*Philodendron atabapoense*||阿塔巴蔓綠絨<br>假聖靈蔓綠絨|||
 |5|*Philodendron billietiae*||橘柄蔓綠絨|||
 |6||'black'|黑橘柄蔓綠絨|||
 |7|*Philodendron bipennifolium*||琴葉蔓綠絨||*Philodendron wayombense*|
