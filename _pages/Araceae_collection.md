@@ -202,19 +202,19 @@ redirect_from:
 
 |編號|學名|中文俗名|其他名稱|備註|
 |:-:|:-:|:-:|:-:|:-:|
-|80|*Philodendron erubescens* 'black cardinal'|黑主教蔓綠絨|||
-|81|*Philodendron erubescens* 'dark lord'|黑帝王蔓綠絨|||
+|80|*Philodendron erubescens* 'Black cardinal'|黑主教蔓綠絨|||
+|81|*Philodendron erubescens* 'Dark lord'|黑帝王蔓綠絨|||
 |82|*Philodendron erubescens* 'Painted Lady'|灑金蔓綠絨||Philodendron erubescens 'Burgundy'<br>X<br>Philodendron erubescens 'Emerald Queen'|
-|83|*Philodendron erubescens* 'pink princess'|粉紅公主蔓綠絨|||
-|84|*Philodendron erubescens* 'white knight'|白騎士蔓綠絨|||
-|85|*Philodendron erubescens* 'white princess'|白公主蔓綠絨|||
-|86|*Philodendron erubescens* 'white wizard'|白巫師蔓綠絨|||
-|87|*Philodendron* 'fire of ring'|斑葉火之戒蔓綠絨|||
-|88|*Philodendron* 'florida'|佛羅里達蔓綠絨<br>龍爪蔓綠絨|*Philodendron* 'rudolf'|pos<br>*Philodendron pedatum*<br>X<br>*Philodendron squamiferum*|
-|89|*Philodendron* 'florida beauty'|斑葉龍爪蔓綠絨<br>佛羅里達美人||var. form *Philodendron* 'florida'|
-|90|*Philodendron* 'florida ghost'|幽靈龍爪蔓綠絨<br>佛羅里達幽靈||var. form *Philodendron* 'florida'|
-|91|*Philodendron* 'Gloriosum'|榮耀蔓綠絨<br>光榮蔓綠絨||*Philodendron gloriosum*<br>X<br>*Philodendron melanochrysum*|
-|92|*Philodendron* 'Golden Serratum'|黃金火之戒蔓綠絨|*Philodendron* 'Orange'|
+|83|*Philodendron erubescens* 'Pink princess'|粉紅公主蔓綠絨|||
+|84|*Philodendron erubescens* 'White knight'|白騎士蔓綠絨|||
+|85|*Philodendron erubescens* 'White princess'|白公主蔓綠絨|||
+|86|*Philodendron erubescens* 'White wizard'|白巫師蔓綠絨|||
+|87|*Philodendron* 'Fire of ring'|斑葉火之戒蔓綠絨|||
+|88|*Philodendron* 'Florida'|佛羅里達蔓綠絨<br>龍爪蔓綠絨|*Philodendron* 'rudolf'|pos<br>*Philodendron pedatum*<br>X<br>*Philodendron squamiferum*|
+|89|*Philodendron* 'Florida beauty'|斑葉龍爪蔓綠絨<br>佛羅里達美人||var. form *Philodendron* 'florida'|
+|90|*Philodendron* 'Florida ghost'|幽靈龍爪蔓綠絨<br>佛羅里達幽靈||var. form *Philodendron* 'florida'|
+|91|*Philodendron* 'Glorious '|榮耀蔓綠絨<br>光榮蔓綠絨||*Philodendron gloriosum*<br>X<br>*Philodendron melanochrysum*|
+|92|*Philodendron* 'Golden serratum'|黃金火之戒蔓綠絨|*Philodendron* 'Orange'|
 |92|*Philodendron hederaceum* 'brasil'|巴西蔓綠絨<br>斑葉心葉蔓綠絨<br>班葉桃心蔓綠絨|||
 |94|*Philodendron hederaceum* 'lemon'|黃金新葉蔓綠絨|||
 |95|*Philodendron hederaceum* 'rio'|里約蔓綠絨|||
