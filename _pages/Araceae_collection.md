@@ -18,7 +18,7 @@ redirect_from:
   - [芋屬(水芋) *Colocasia* 共4種](#Colocasia)
       - [原生種 Indigenous species](#IndigenousColocasia)
       - [園藝種 garden species](#GardenColocasia)
-  - [蔓綠絨屬 *Philodendron* 共102種](#Philodendron)
+  - [蔓綠絨屬 *Philodendron* 共103種](#Philodendron)
     - [原生種 Indigenous species](#IndigenousPhilodendron)
       - [附生 Climber](#IndigenousClimber)
       - [地生 Crawler](#IndigenousCrawler)
@@ -170,6 +170,7 @@ redirect_from:
 |66|*Philodendron warszewiczii*||木瓜蔓綠絨|||
 |67|*Philodendron wenereri*|||IMP.Ecuador||
 |68|*Philodendron* x 'joepii'||喬皮蔓綠絨<br>丁字褲蔓綠絨|TC||natural hybrid<br>pos.<br>*bipennifolium*<br>X<br>*pedatum*|
+|69|*Philodendron* x '68696'||68696蔓綠絨||natural hybrid|
 
 <a name="IndigenousCrawler"></a>
 
@@ -177,13 +178,13 @@ redirect_from:
 
 |編號|學名|品型|中文俗名|來源|同義詞|備註|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|69|*Philodendron gloriosum*|'O' form|圓柄錦緞蔓綠絨 |||
-|70||'D' form|扁柄錦緞蔓綠絨 |||
-|71|*Philodendron mamei*||白雲蔓綠絨|||
-|72||'indigen' form|原生白雲蔓綠絨|||
-|73|*Philodendron martianum*||泡泡蔓綠絨<br>立葉蔓綠絨||*Caladium crassipes<br>Caladium macropus<br>Philodendron cannifolium*|
-|74|*Philodendron rugosum*||豬皮蔓綠絨|||
-|75||'Sow's Ear'|捲耳豬皮蔓綠絨|||
+|70|*Philodendron gloriosum*|'O' form|圓柄錦緞蔓綠絨 |||
+|71||'D' form|扁柄錦緞蔓綠絨 |||
+|72|*Philodendron mamei*||白雲蔓綠絨|||
+|73||'indigen' form|原生白雲蔓綠絨|||
+|74|*Philodendron martianum*||泡泡蔓綠絨<br>立葉蔓綠絨||*Caladium crassipes<br>Caladium macropus<br>Philodendron cannifolium*|
+|75|*Philodendron rugosum*||豬皮蔓綠絨|||
+|76||'Sow's Ear'|捲耳豬皮蔓綠絨|||
 
 <a name="UnpublishedPhilodendron"></a>
 
@@ -191,10 +192,10 @@ redirect_from:
 
 |編號|學名|品型|中文俗名|來源|同義詞|備註|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|76|*Philodendron albovirescens*|||IMP.Colombia||Unpublished |
-|77|*Philodendron lapoanum*|||||
-|78|*Philodendron paloraense*||怕羅拉蔓綠絨<br>三叉戟蔓綠絨<br>海神蔓綠絨 |||
-|79|*Philodendron sodiroi*||所迪羅蔓綠絨<br>說的容易蔓綠絨|*philodendron ornatum* 'sodiroi'<br>*Philodendron sp.*'silver'|||
+|77|*Philodendron albovirescens*|||IMP.Colombia||Unpublished |
+|78|*Philodendron lapoanum*|||||
+|79|*Philodendron paloraense*||怕羅拉蔓綠絨<br>三叉戟蔓綠絨<br>海神蔓綠絨 |||
+|80|*Philodendron sodiroi*||所迪羅蔓綠絨<br>說的容易蔓綠絨|*philodendron ornatum* 'sodiroi'<br>*Philodendron sp.*'silver'|||
 
 <a name="GardenPhilodendron"></a>
 
@@ -202,29 +203,29 @@ redirect_from:
 
 |編號|學名|中文俗名|其他名稱|備註|
 |:-:|:-:|:-:|:-:|:-:|
-|80|*Philodendron erubescens* 'Black cardinal'|黑主教蔓綠絨|||
-|81|*Philodendron erubescens* 'Dark lord'|黑帝王蔓綠絨|||
-|82|*Philodendron erubescens* 'Painted Lady'|灑金蔓綠絨||Philodendron erubescens 'Burgundy'<br>X<br>Philodendron erubescens 'Emerald Queen'|
-|83|*Philodendron erubescens* 'Pink princess'|粉紅公主蔓綠絨|||
-|84|*Philodendron erubescens* 'White knight'|白騎士蔓綠絨|||
-|85|*Philodendron erubescens* 'White princess'|白公主蔓綠絨|||
-|86|*Philodendron erubescens* 'White wizard'|白巫師蔓綠絨|||
-|87|*Philodendron* 'Fire of ring'|斑葉火之戒蔓綠絨|||
-|88|*Philodendron* 'Florida'|佛羅里達蔓綠絨<br>龍爪蔓綠絨|*Philodendron* 'rudolf'|pos<br>*Philodendron pedatum*<br>X<br>*Philodendron squamiferum*|
-|89|*Philodendron* 'Florida beauty'|斑葉龍爪蔓綠絨<br>佛羅里達美人||var. form *Philodendron* 'florida'|
-|90|*Philodendron* 'Florida ghost'|幽靈龍爪蔓綠絨<br>佛羅里達幽靈||var. form *Philodendron* 'florida'|
-|91|*Philodendron* 'Glorious '|榮耀蔓綠絨<br>光榮蔓綠絨||*Philodendron gloriosum*<br>X<br>*Philodendron melanochrysum*|
-|92|*Philodendron* 'Golden serratum'|黃金火之戒蔓綠絨|*Philodendron* 'Orange'|
-|92|*Philodendron hederaceum* 'brasil'|巴西蔓綠絨<br>斑葉心葉蔓綠絨<br>班葉桃心蔓綠絨|||
-|94|*Philodendron hederaceum* 'lemon'|黃金新葉蔓綠絨|||
-|95|*Philodendron hederaceum* 'rio'|里約蔓綠絨|||
-|96|*Philodendron imbe* 'Burle Marx'|獨角獸蔓綠絨|||
-|97|*Philodendron imbe* 'Burle Marx var.'|斑葉獨角獸蔓綠絨|||
-|98|*Philodendron* 'Splendid'|華麗蔓綠絨<br>花交絨蔓綠絨||*Philodendron verrucosum*<br>x<br>*Philodendron  melanochrysum*|
-|99|*Philodendron pedatum* 'glad hands'|快樂手龍爪蔓綠絨|||
-|100|*Philodendron pedatum* 'quercifolium'|細葉龍爪蔓綠絨|||
-|101|*Philodendron* 'Pluto'|神炬蔓綠絨|*Philodendron* 'Choco Empress'||
-|102|*Philodendron* 'Jungle Boogie'|綠鱷蔓綠絨<br>翡翠火戒介蔓綠絨|||
+|81|*Philodendron erubescens* 'Black cardinal'|黑主教蔓綠絨|||
+|82|*Philodendron erubescens* 'Dark lord'|黑帝王蔓綠絨|||
+|83|*Philodendron erubescens* 'Painted Lady'|灑金蔓綠絨||Philodendron erubescens 'Burgundy'<br>X<br>Philodendron erubescens 'Emerald Queen'|
+|84|*Philodendron erubescens* 'Pink princess'|粉紅公主蔓綠絨|||
+|85|*Philodendron erubescens* 'White knight'|白騎士蔓綠絨|||
+|86|*Philodendron erubescens* 'White princess'|白公主蔓綠絨|||
+|87|*Philodendron erubescens* 'White wizard'|白巫師蔓綠絨|||
+|88|*Philodendron* 'Fire of ring'|斑葉火之戒蔓綠絨|||
+|89|*Philodendron* 'Florida'|佛羅里達蔓綠絨<br>龍爪蔓綠絨|*Philodendron* 'rudolf'|pos<br>*Philodendron pedatum*<br>X<br>*Philodendron squamiferum*|
+|90|*Philodendron* 'Florida beauty'|斑葉龍爪蔓綠絨<br>佛羅里達美人||var. form *Philodendron* 'florida'|
+|91|*Philodendron* 'Florida ghost'|幽靈龍爪蔓綠絨<br>佛羅里達幽靈||var. form *Philodendron* 'florida'|
+|92|*Philodendron* 'Glorious '|榮耀蔓綠絨<br>光榮蔓綠絨||*Philodendron gloriosum*<br>X<br>*Philodendron melanochrysum*|
+|93|*Philodendron* 'Golden serratum'|黃金火之戒蔓綠絨|*Philodendron* 'Orange'|
+|94|*Philodendron hederaceum* 'brasil'|巴西蔓綠絨<br>斑葉心葉蔓綠絨<br>班葉桃心蔓綠絨|||
+|95|*Philodendron hederaceum* 'lemon'|黃金心葉蔓綠絨|||
+|96|*Philodendron hederaceum* 'rio'|里約蔓綠絨|||
+|97|*Philodendron imbe* 'Burle Marx'|獨角獸蔓綠絨|||
+|98|*Philodendron imbe* 'Burle Marx var.'|斑葉獨角獸蔓綠絨|||
+|99|*Philodendron* 'Splendid'|華麗蔓綠絨<br>花交絨蔓綠絨||*Philodendron verrucosum*<br>x<br>*Philodendron  melanochrysum*|
+|100|*Philodendron pedatum* 'glad hands'|快樂手龍爪蔓綠絨|||
+|101|*Philodendron pedatum* 'quercifolium'|細葉龍爪蔓綠絨|||
+|102|*Philodendron* 'Pluto'|神炬蔓綠絨|*Philodendron* 'Choco Empress'||
+|103|*Philodendron* 'Jungle Boogie'|綠鱷蔓綠絨<br>翡翠火戒介蔓綠絨|||
 
 <a name="Thaumatophyllum"></a>
 
