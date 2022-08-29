@@ -50,13 +50,13 @@ redirect_from:
 ||'narrow form'||||
 |*Philodendron eximium*||團扇蔓綠絨<br>圓扇蔓綠絨|*Arum amphibium<br>Philodendron amphibium<br>Philodendron cardiophyllum<br>Philodendron sauerianum*|
 |*Philodendron fibraecataphyllum*||青蘋果蔓綠絨<br>祕魯蔓綠絨|*Philodendron sp.*'Peru'|
-|*Philodendron genevievianum*||||
-|*Philodendron geniculatum*|||||
+|*Philodendron genevievianum*|||
+|*Philodendron geniculatum*||||
 |*Philodendron giganteum*||大理石蔓綠絨||
 |*Pilodendron gigas*||牡蠣蔓綠絨|||
 |*Philodendron grazielae*||愛心蔓綠絨<br>腎葉蔓綠絨|||
 |*Philodendron hastatum*||銀箭蔓綠絨|*Philodendron disparile<br>Philodendron elongatum<br>Philodendron hastifolium<br>Philodendron simsii*|
-|*Philodendron hederaceum*||心葉蔓綠絨<br>桃心蔓綠絨||||
+|*Philodendron hederaceum*||心葉蔓綠絨<br>桃心蔓綠絨|||
 |*Philodendron heterocraspedon*||||
 |*Philodendron hopkinsianum*||冰裂瓷蔓綠絨|*Philodendron sp.* 'Burle Marx Fantasy'|
 |*Philodendron lacerum*||淺裂蔓綠絨|*Arum lacerum<br>Caladium lacerum<br>Philodendron albovaginatum<br>Philodendron incisocrenatum*|
@@ -88,7 +88,7 @@ redirect_from:
 ||'holtonianum'  ||||
 |*Philodendron verrucosum*||花葉蔓綠絨<br>毛柄蔓綠絨|*Philodendron carderi<br>Philodendron daguense<br>Philodendron discolor<br>Philodendron lindenii<br>Philodendron pilatonense*|
 |*Philodendron warszewiczii*||木瓜蔓綠絨|||
-|*Philodendron wenereri*||||
+|*Philodendron wenereri*|||
 |*Philodendron* x 'joepii'||喬皮蔓綠絨<br>丁字褲蔓綠絨||natural hybrid<br>pos.<br>*bipennifolium*<br>X<br>*pedatum*|
 |*Philodendron* x '68696'||68696蔓綠絨|||pos. natural hybrid|
 
