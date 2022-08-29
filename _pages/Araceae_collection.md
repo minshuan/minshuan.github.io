@@ -170,7 +170,7 @@ redirect_from:
 |66|*Philodendron warszewiczii*||木瓜蔓綠絨|||
 |67|*Philodendron wenereri*|||IMP.Ecuador||
 |68|*Philodendron* x 'joepii'||喬皮蔓綠絨<br>丁字褲蔓綠絨|TC||natural hybrid<br>pos.<br>*bipennifolium*<br>X<br>*pedatum*|
-|69|*Philodendron* x '68696'||68696蔓綠絨||natural hybrid|
+|69|*Philodendron* x '68696'||68696蔓綠絨|||natural hybrid|
 
 <a name="IndigenousCrawler"></a>
 
