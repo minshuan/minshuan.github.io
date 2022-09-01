@@ -227,10 +227,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _philo_introduce
   - scope:
       path: ""
-      type: portfolio
+      type: philo_introduce
     values:
       layout: single
       author_profile: true
