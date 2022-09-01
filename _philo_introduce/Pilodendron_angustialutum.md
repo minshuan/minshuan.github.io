@@ -4,4 +4,14 @@ excerpt: "Short description of portfolio item number 1<br/><img src='/images/500
 collection: philo_introduce
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML.
+### Pilodendron angustialutum照顧總結
+
+|**難易度**|容易 |
+|:-:|-|
+|**濕度**|60%-70%|
+|**溫度**|20°C-35°C|
+|**光照**|中等到明亮的散射光|
+|**澆水**|當土壤約 50% 乾燥時澆透|
+|**施肥**|夏季:3-4週一次高氮肥<br>冬季:約莫10週一次高氮肥|
+|**介質**|需透氣且排水性良好|
+|**常見問題**|1. 空氣濕度不足，造成焦葉<br>2. 過度澆水導致根腐病|
