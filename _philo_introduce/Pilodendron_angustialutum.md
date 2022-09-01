@@ -1,6 +1,6 @@
 ---
 title: "Pilodendron angustialutum"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/600x579.png'>"
+excerpt: "Pilodendron angustialutum<br/><img src='/images/600x579.png'>"
 collection: philo_introduce
 ---
 
