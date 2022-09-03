@@ -241,12 +241,6 @@ function filter() {
                 let appliedTags = []
                 // filter by rank and time
                 var fChars
-                if (queryTags.includes("領袖"))
-                    fChars = enlistHour < 9 ? chars : chars.filter(char => char.grade == 3)
-                else if (queryTags.includes("菁英"))
-                    fChars = enlistHour < 9 ? chars.filter(char => char.grade < 3) : chars.filter(char => char.grade == 2)
-                else
-                    fChars = enlistHour < 4 ? chars.filter(char => char.grade < 2) : chars.filter(char => char.grade < 3)
 
                 // filter by type, category, race, body and oppai
                 for (let i = 0; i < 5; i++) {
@@ -325,13 +319,13 @@ function filter() {
                     nameCol.innerHTML = survivor.name
                     switch (survivor.grade) {
                         case 3:
-                            rarityCol.innerHTML = "SSR"
+                            rarityCol.innerHTML = "蔓綠絨"
                             break
                         case 2:
-                            rarityCol.innerHTML = "SR"
+                            rarityCol.innerHTML = "觀音蓮"
                             break
                         case 1:
-                            rarityCol.innerHTML = "R"
+                            rarityCol.innerHTML = "花燭"
                             break
                         default:
                             rarityCol.innerHTML = "N"
@@ -346,7 +340,7 @@ function filter() {
                     }
 
                     appliedTagsCol.addEventListener("click", () => {
-                        if (!confirm("確定要套用該角色標籤?"))
+                        if (!confirm("確定要套用該標籤?"))
                             return
 
                         //update table
