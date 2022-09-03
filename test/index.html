@@ -52,10 +52,6 @@
         <li>
           <svg id="to-top-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" height="24" width="24">
             <path d="M0 0h24v24H0V0z" fill="none" />
-            <path d="M9 12h2v5h2V12h2l-3-3-3 3zM7 6.5v2h10V6.5H4z" />
-            <path d="M0 0h24v24H0V0z" fill="none" />
-            <path d="M19 5v14H5V5h14m0-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2
-                        V5c0-1.1-.9-2-2-2z" />
           </svg>
         </li>
         <li>
@@ -75,7 +71,7 @@
             <div class="filter-item">
               <div class="filter-head">
                 <div class="filter-title">
-                  <!-- <svg class="filter-icon" viewBox="0 0 24 24" id="tag-icon" xmlns="http://www.w3.org/2000/svg">
+                  <svg class="filter-icon" viewBox="0 0 24 24" id="tag-icon" xmlns="http://www.w3.org/2000/svg">
                     <g stroke="none" fill="currentColor">
                       <path d="M0 0h24v24H0z" fill="none" />
                       <path d="M21.41 11.58l-9-9C12.05 2.22 11.55 2 11 2H4c-1.1
@@ -83,7 +79,7 @@
                                         0 1.05-.22 1.41-.59l7-7c.37-.36.59-.86.59-1.41 0-.55-.23-1.06
                                         -.59-1.42zM5.5 7C4.67 7 4 6.33 4 5.5S4.67 4 5.5 4 7 4.67 7 5.5
                                         6.33 7 5.5 7z" />
-                  </svg> -->
+                  </svg>
                   <label>標籤選擇</label>
                 </div>
                 <div>
@@ -110,8 +106,8 @@
                       <path d="M3 13.5h8v8H3z" />
                   </svg>
                 </div>
-                <div id="tag-category">
-                  <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 24 24" class="filter-icon" id="category-icon">
+                <div id="tag-temperature">
+                  <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 24 24" class="filter-icon" id="temperature-icon">
                     <g stroke="none" fill="currentColor">
                       <path d="M0 0h24v24H0z" fill="none" />
                       <path d="M20.71 5.63l-2.34-2.34c-.39-.39-1.02
@@ -126,8 +122,8 @@
                                     scale(0.7 0.7)" />
                   </svg>
                 </div>
-                <div id="tag-race">
-                  <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 24 24" class="filter-icon" id="race-icon">
+                <div id="tag-light">
+                  <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 24 24" class="filter-icon" id="light-icon">
                     <g stroke="none" fill="currentColor">
                       <path d="M0 0h24v24H0z" fill="none" />
                       <path d="M12 12c2.21 0 4-1.79 4-4s-1.79-4-4-4
@@ -152,8 +148,8 @@
                       <circle cx="14" cy="10" r=".8" />
                   </svg>
                 </div>
-                <div id="tag-rank">
-                  <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 24 24" class="filter-icon" id="rank-icon">
+                <div id="tag-class">
+                  <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 24 24" class="filter-icon" id="class-icon">
                     <g stroke="none" fill="currentColor">
                       <path d="M17,10.43V2H7v8.43c0,0.35,0.18,0.68,0.49,0.86
                                         l4.18,2.51l-0.99,2.34l-3.41,0.29l2.59,2.24L9.07,22
@@ -178,45 +174,6 @@
               </div>
             </div>
           </li>
-          <!-- <li>
-            <div id="time-container" class="filter-item">
-              <div class="filter-head">
-                <svg xmlns="http://www.w3.org/2000/svg" class="filter-icon" viewBox="0 0 24 24">
-                  <g stroke="none" fill="currentColor">
-                    <path d="M0 0h24v24H0z" fill="none" />
-                    <path d="M11.99 2C6.47 2 2 6.48 2 12s4.47 10 9.99 10C17.52 22 22
-                                    17.52 22 12S17.52 2 11.99 2zM12 20c-4.42 0-8-3.58-8-8s3.58-8 8-8
-                                    8 3.58 8 8-3.58 8-8 8z" />
-                    <path d="M12.5 7H11v6l5.25 3.15.75-1.23-4.5-2.67z" />
-                </svg>
-                <div title class="filter-title">
-                  <label>招募時間</label>
-                </div>
-              </div>
-              <div class="filter-body">
-                <select id="enlist-hour">
-                  <option>1</option>
-                  <option>2</option>
-                  <option>3</option>
-                  <option>4</option>
-                  <option>5</option>
-                  <option>6</option>
-                  <option>7</option>
-                  <option>8</option>
-                  <option selected="selected">9</option>
-                </select>
-                <scan>：</scan>
-                <select id="enlist-minute">
-                  <option selected="selected">0</option>
-                  <option>10</option>
-                  <option>20</option>
-                  <option>30</option>
-                  <option>40</option>
-                  <option>50</option>
-                </select>
-              </div>
-            </div>
-          </li> -->
         </ul>
       </div>
       <div id=result-container>
@@ -224,7 +181,7 @@
           <thead>
             <tr>
               <th>名字</th>
-              <th id="rarity">稀有度</th>
+              <th id="rarity">種類</th>
               <th>定位</th>
               <th>應用標籤</th>
             </tr>
@@ -245,8 +202,8 @@
         <span>介紹</span>
       </div>
       <div class="modal-body">
-        <p>此網頁為關於手遊"天下布魔"中全境徵才之篩選器</p>
-        <p>應用徵才隨機得到的五個標籤，篩選出可能的人選</p>
+        <p>此網頁為植物篩選器</p>
+        <p>幫助不知道想種什麼的朋友篩選出適當的植物</p>
       </div>
       <div class="modal-head">
         <span>操作說明</span>
@@ -260,42 +217,19 @@
         <p>將游標移至該圖示上顯示可能之標籤組合</p>
       </div>
       <div class="modal-head">
-        <span>常用情境</span>
-      </div>
-      <div class="modal-body">
-        <p>鎖定高星角:</p>
-        <p>填入招募的五個標籤，並選擇至少應用一標籤</p>
-        <p>將結果依星數排序，觀察高星角是否有星星圖示</p>
-        <p>若所有高星角皆無圖示，則不值得使用此標籤組合招募</p>
-        <p>若有出現圖示，則有一試之價值</p>
-      </div>
-      <div class="modal-head">
         <span>注意事項</span>
       </div>
       <div class="modal-body">
         <p>並未考慮標籤被劃掉之可能性</p>
         <p>即使出現星星圖示也不代表必中，因為標籤可能被劃掉，或有符合條件但仍未知之角色</p>
-        <p>目前關於領導(菁英)標籤的規則是9hr必3(2)星，其他時間則不保證</p>
+        <p>目前關於領導(觀音蓮)標籤的規則是9hr必3(2)星，其他時間則不保證</p>
         <p>搜尋結果高度依賴現有資料庫，請多多回報</p>
-      </div>
-    </div>
-  </div>
-  <!--Info Modal-->
-  <div id="info-modal" class="modal-container">
-    <div class="modal-content">
-      <div class="modal-head">
-        <span id="close-info-modal" class="close-modal">&times;</span>
-        <span>通知</span>
-      </div>
-      <div class="modal-body">
-        <p>此網頁不再更新，請至<a href='https://purindaisuki.github.io/tkfmtools/'>天下布魔工具箱</a></p>
       </div>
     </div>
   </div>
   <div style="display: none;">
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="star-icon">
       <g stroke="none" fill="currentColor">
-        <path d="M0 0h24v24H0z" fill="none" />
         <path d="M11.99 2C6.47 2 2 6.48 2 12s4.47 10 9.99 10C17.52 22 22 17.52 22 12S17.52 2
                 11.99 2zm4.24 16L12 15.45 7.77 18l1.12-4.81-3.73-3.23 4.92-.42L12 5l1.92 4.53 4.92.42-3.73
                 3.23L16.23 18z" />

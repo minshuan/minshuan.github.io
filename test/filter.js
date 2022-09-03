@@ -30,13 +30,6 @@ document.addEventListener("DOMContentLoaded", () => {
 window.onload = () => {
     queryTagNum = 0
 
-    // info modal
-    let infoModal = document.querySelector("#info-modal")
-    infoModal.style.display = "block"
-    document.querySelector("#close-info-modal").addEventListener("click", () => {
-        infoModal.style.display = "none"
-    })
-
     // help info button
     let helpModal = document.querySelector("#help-modal")
     document.querySelector("#help-icon").addEventListener("click", () => {
@@ -68,18 +61,18 @@ window.onload = () => {
         .forEach(tag => {
             tag.classList.remove("tag-active")
             tag.classList.remove("tag-type-active")
-            tag.classList.remove("tag-category-active")
-            tag.classList.remove("tag-race-active")
+            tag.classList.remove("tag-temperature-active")
+            tag.classList.remove("tag-light-active")
             tag.classList.remove("tag-body-active")
             tag.classList.remove("tag-oppai-active")
-            tag.classList.remove("tag-rank-active")
+            tag.classList.remove("tag-class-active")
             tag.classList.remove("tag-else-active")
             queryTagNum = 0
             document.querySelector("#result").innerHTML = ""
         })
     })
 
-    // sort table  
+    // sort table
     document.querySelectorAll("th").forEach((th, _, ths) => th.addEventListener("click", () => {
         let isAsc = false
         // update order
@@ -161,10 +154,6 @@ function createTagElemet(attribute, tagStr) {
                 return
             }
         } else {
-            if (queryTagNum >= 5) {
-                alert("標籤數至多五個")
-                return
-            }
             tag.classList.add("tag-active")
             tag.classList.add("tag-" + attribute + "-active")
             queryTagNum++;
@@ -214,7 +203,7 @@ function filter() {
             queryTags.push(tag.children[1].innerHTML)
     })
 
-    const enlistHour = document.querySelector("#enlist-hour").value
+    const enlistHour = 9
 
     fetch('./tags.json')
     .then(response => response.json())
@@ -239,16 +228,16 @@ function filter() {
             // screen out ineligible characters
             queryTagsComb.forEach(queryTags => {
                 let appliedTags = []
-                // filter by rank and time
+                // filter by class and time
                 var fChars
-                if (queryTags.includes("領袖"))
-                    fChars = enlistHour < 9 ? chars : chars.filter(char => char.grade == 3)
-                else if (queryTags.includes("菁英"))
-                    fChars = enlistHour < 9 ? chars.filter(char => char.grade < 3) : chars.filter(char => char.grade == 2)
+                if (queryTags.includes("蔓綠絨"))
+                    fChars = enlistHour == 9 ? chars : chars.filter(char => char.grade == 3)
+                else if (queryTags.includes("觀音蓮"))
+                    fChars = enlistHour == 9 ? chars : chars.filter(char => char.grade == 2)
                 else
-                    fChars = enlistHour < 4 ? chars.filter(char => char.grade < 2) : chars.filter(char => char.grade < 3)
-                
-                // filter by type, category, race, body and oppai
+                    fChars = enlistHour == 9 ? chars.filter(char => char.grade < 2) : chars.filter(char => char.grade < 3)
+
+                // filter by type, temperature, light, body and oppai
                 for (let i = 0; i < 5; i++) {
                     if (queryTags.length == 0 || fChars.length == 0)
                         break
@@ -260,7 +249,7 @@ function filter() {
                         }
                     })
                 }
-                
+
                 // filter by the rest tags
                 const survivors = fChars.filter(char => queryTags.every(t => char.tags.includes(t)))
                 queryTags = queryTags.concat(appliedTags)
@@ -318,54 +307,30 @@ function filter() {
                     let row = result.insertRow()
                     let nameCol = row.insertCell()
                     let rarityCol = row.insertCell()
-                    let categoryCol = row.insertCell()
+                    let temperatureCol = row.insertCell()
                     let appliedTagsCol = row.insertCell()
-                        
+
                     row.setAttribute("class", survivor.type)
                     nameCol.innerHTML = survivor.name
                     switch (survivor.grade) {
                         case 3:
-                            rarityCol.innerHTML = "SSR"
+                            rarityCol.innerHTML = "蔓綠絨"
                             break
                         case 2:
-                            rarityCol.innerHTML = "SR"
+                            rarityCol.innerHTML = "觀音蓮"
                             break
                         case 1:
-                            rarityCol.innerHTML = "R"
+                            rarityCol.innerHTML = "火鶴"
                             break
                         default:
-                            rarityCol.innerHTML = "N"
+                            rarityCol.innerHTML = "其他"
                     }
-                    categoryCol.innerHTML = survivor.category
+                    temperatureCol.innerHTML = survivor.temperature
                     appliedTagsCol.innerHTML = queryTagsStr
                     appliedTagsCol.style.cursor = "pointer"
-
-                    if (isDistinct) {
-                        // create tooltip
-                        nameCol.appendChild(createTooltip(queryTagsStr))
-                    }
-
-                    appliedTagsCol.addEventListener("click", () => {
-                        if (!confirm("確定要套用該角色標籤?"))
-                            return
-                        
-                        //update table
-                        let trs = document.querySelectorAll("tr")
-                        for (let i = trs.length - 1; i > 0; i--) {
-                            const selectedTags = trs[i].lastChild.innerHTML.split(", ")
-                            if (!queryTags.every(t => selectedTags.includes(t)))
-                                document.querySelector("#result").deleteRow(i - 1)
-                        }
-                    })
                 })
             })
         }
-
-        if (result.innerHTML == "") {
-            alert("無符合結果")
-            return
-        }
-
         // sort results by rarity
         sortTable(document.querySelector("#rarity"), false)
     })

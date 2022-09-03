@@ -17,11 +17,11 @@
     --type-dark: #d05ce3;
     --type-wind: #6abf69;
     --type: #1B5E20;
-    --category: #0D47A1;
-    --race: #BF360C;
+    --temperature: #0D47A1;
+    --light: #BF360C;
     --body: #F57F17;
     --oppai: #AD1457;
-    --rank: #827717;
+    --class: #827717;
     --else: #3E2723;
 
     --color-mode-icon: url("./img/sun.svg");
@@ -48,11 +48,11 @@
     --type-dark-text: #CE93D8;
     --type-wind-text: #A5D6A7;
     --type: #A5D6A7;
-    --category: #90CAF9;
-    --race: #FFAB91;
+    --temperature: #90CAF9;
+    --light: #FFAB91;
     --body: #FFF9C4;
     --oppai: #F48FB1;
-    --rank: #E6EE9C;
+    --class: #E6EE9C;
     --else: #D7CCC8;
 
     --color-mode-icon: url("./img/moon.svg");
@@ -68,13 +68,13 @@ body{
     margin: 0;
     height: 100vh;
     background-color: var(--surface);
-    display:flex; 
+    display:flex;
     flex-direction:column;
     scrollbar-color: var(--border) var(--primary);
 }
 
 ::-webkit-scrollbar-thumb {
-    background: var(--border); 
+    background: var(--border);
 }
 
 .menu {
@@ -423,12 +423,12 @@ td {
     color: var(--type);
 }
 
-.tag-category {
-    color: var(--category);
+.tag-temperature {
+    color: var(--temperature);
 }
 
-.tag-race {
-    color: var(--race);
+.tag-light {
+    color: var(--light);
 }
 
 .tag-body {
@@ -439,8 +439,8 @@ td {
     color: var(--oppai);
 }
 
-.tag-rank {
-    color: var(--rank);
+.tag-class {
+    color: var(--class);
 }
 
 .tag-else {
@@ -451,12 +451,12 @@ td {
     background-color: var(--type);
 }
 
-.tag-category-active {
-    background-color: var(--category);
+.tag-temperature-active {
+    background-color: var(--temperature);
 }
 
-.tag-race-active {
-    background-color: var(--race);
+.tag-light-active {
+    background-color: var(--light);
 }
 
 .tag-body-active {
@@ -467,8 +467,8 @@ td {
     background-color: var(--oppai);
 }
 
-.tag-rank-active {
-    background-color: var(--rank);
+.tag-class-active {
+    background-color: var(--class);
 }
 
 .tag-else-active {
