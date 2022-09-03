@@ -1,9 +1,0 @@
-[
-    {"attribute": "type", "tags": ["蔓綠絨", "觀音蓮", "火鶴"]},
-    {"attribute": "body", "tags": ["小型", "中型", "大型"]},
-    {"attribute": "light", "tags": ["低光照", "中等光", "喜光"]},
-    {"attribute": "tampture", "tags": ["怕熱(>30)", "怕冷(<15)", "適應性佳"]},
-    {"attribute": "humidity", "tags": ["需高濕度", "適合室內"]},
-    {"attribute": "rank", "tags": ["需攀爬", "可吊掛", "可盆養"]},
-    {"attribute": "else", "tags": ["毛柄", "亮葉", "絨葉", "斑葉", "葉柄特殊", "葉脈特殊", "葉形特殊", "葉背特殊", "生長快速", "原生種", "園藝種"]}
-]

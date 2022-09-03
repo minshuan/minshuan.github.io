@@ -68,9 +68,10 @@ window.onload = () => {
         .forEach(tag => {
             tag.classList.remove("tag-active")
             tag.classList.remove("tag-type-active")
-            tag.classList.remove("tag-light-active")
+            tag.classList.remove("tag-category-active")
+            tag.classList.remove("tag-race-active")
             tag.classList.remove("tag-body-active")
-            tag.classList.remove("tag-humidity-active")
+            tag.classList.remove("tag-oppai-active")
             tag.classList.remove("tag-rank-active")
             tag.classList.remove("tag-else-active")
             queryTagNum = 0
@@ -78,7 +79,7 @@ window.onload = () => {
         })
     })
 
-    // sort table
+    // sort table  
     document.querySelectorAll("th").forEach((th, _, ths) => th.addEventListener("click", () => {
         let isAsc = false
         // update order
@@ -219,7 +220,7 @@ function filter() {
     .then(response => response.json())
     .then(tags => {
         charAttributes = tags
-        return fetch('./plant_tag.json')
+        return fetch('./characters.json')
     })
     .then(response => response.json())
     .then(chars => {
@@ -240,8 +241,14 @@ function filter() {
                 let appliedTags = []
                 // filter by rank and time
                 var fChars
-
-                // filter by type, light, race, body and humidity
+                if (queryTags.includes("領袖"))
+                    fChars = enlistHour < 9 ? chars : chars.filter(char => char.grade == 3)
+                else if (queryTags.includes("菁英"))
+                    fChars = enlistHour < 9 ? chars.filter(char => char.grade < 3) : chars.filter(char => char.grade == 2)
+                else
+                    fChars = enlistHour < 4 ? chars.filter(char => char.grade < 2) : chars.filter(char => char.grade < 3)
+                
+                // filter by type, category, race, body and oppai
                 for (let i = 0; i < 5; i++) {
                     if (queryTags.length == 0 || fChars.length == 0)
                         break
@@ -253,7 +260,7 @@ function filter() {
                         }
                     })
                 }
-
+                
                 // filter by the rest tags
                 const survivors = fChars.filter(char => queryTags.every(t => char.tags.includes(t)))
                 queryTags = queryTags.concat(appliedTags)
@@ -311,25 +318,25 @@ function filter() {
                     let row = result.insertRow()
                     let nameCol = row.insertCell()
                     let rarityCol = row.insertCell()
-                    let lightCol = row.insertCell()
+                    let categoryCol = row.insertCell()
                     let appliedTagsCol = row.insertCell()
-
+                        
                     row.setAttribute("class", survivor.type)
                     nameCol.innerHTML = survivor.name
                     switch (survivor.grade) {
                         case 3:
-                            rarityCol.innerHTML = "蔓綠絨"
+                            rarityCol.innerHTML = "SSR"
                             break
                         case 2:
-                            rarityCol.innerHTML = "觀音蓮"
+                            rarityCol.innerHTML = "SR"
                             break
                         case 1:
-                            rarityCol.innerHTML = "花燭"
+                            rarityCol.innerHTML = "R"
                             break
                         default:
                             rarityCol.innerHTML = "N"
                     }
-                    lightCol.innerHTML = survivor.light
+                    categoryCol.innerHTML = survivor.category
                     appliedTagsCol.innerHTML = queryTagsStr
                     appliedTagsCol.style.cursor = "pointer"
 
@@ -339,9 +346,9 @@ function filter() {
                     }
 
                     appliedTagsCol.addEventListener("click", () => {
-                        if (!confirm("確定要套用該標籤?"))
+                        if (!confirm("確定要套用該角色標籤?"))
                             return
-
+                        
                         //update table
                         let trs = document.querySelectorAll("tr")
                         for (let i = trs.length - 1; i > 0; i--) {

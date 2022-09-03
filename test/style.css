@@ -17,10 +17,10 @@
     --type-dark: #d05ce3;
     --type-wind: #6abf69;
     --type: #1B5E20;
-    --tampture: #0D47A1;
+    --category: #0D47A1;
     --race: #BF360C;
     --body: #F57F17;
-    --humidity: #AD1457;
+    --oppai: #AD1457;
     --rank: #827717;
     --else: #3E2723;
 
@@ -48,10 +48,10 @@
     --type-dark-text: #CE93D8;
     --type-wind-text: #A5D6A7;
     --type: #A5D6A7;
-    --tampture: #90CAF9;
+    --category: #90CAF9;
     --race: #FFAB91;
     --body: #FFF9C4;
-    --humidity: #F48FB1;
+    --oppai: #F48FB1;
     --rank: #E6EE9C;
     --else: #D7CCC8;
 
@@ -68,13 +68,13 @@ body{
     margin: 0;
     height: 100vh;
     background-color: var(--surface);
-    display:flex;
+    display:flex; 
     flex-direction:column;
     scrollbar-color: var(--border) var(--primary);
 }
 
 ::-webkit-scrollbar-thumb {
-    background: var(--border);
+    background: var(--border); 
 }
 
 .menu {
@@ -423,8 +423,8 @@ td {
     color: var(--type);
 }
 
-.tag-tampture {
-    color: var(--tampture);
+.tag-category {
+    color: var(--category);
 }
 
 .tag-race {
@@ -435,8 +435,8 @@ td {
     color: var(--body);
 }
 
-.tag-humidity {
-    color: var(--humidity);
+.tag-oppai {
+    color: var(--oppai);
 }
 
 .tag-rank {
@@ -451,8 +451,8 @@ td {
     background-color: var(--type);
 }
 
-.tag-tampture-active {
-    background-color: var(--tampture);
+.tag-category-active {
+    background-color: var(--category);
 }
 
 .tag-race-active {
@@ -463,8 +463,8 @@ td {
     background-color: var(--body);
 }
 
-.tag-humidity-active {
-    background-color: var(--humidity);
+.tag-oppai-active {
+    background-color: var(--oppai);
 }
 
 .tag-rank-active {
