@@ -60,12 +60,12 @@ window.onload = () => {
         Array.from(document.querySelectorAll(".tag"))
         .forEach(tag => {
             tag.classList.remove("tag-active")
-            tag.classList.remove("tag-type-active")
+            tag.classList.remove("tag-plant_level-active")
             tag.classList.remove("tag-temperature-active")
             tag.classList.remove("tag-light-active")
             tag.classList.remove("tag-body-active")
-            tag.classList.remove("tag-oppai-active")
-            tag.classList.remove("tag-class-active")
+            tag.classList.remove("tag-humidity-active")
+            tag.classList.remove("tag-plant_type-active")
             tag.classList.remove("tag-else-active")
             queryTagNum = 0
             document.querySelector("#result").innerHTML = ""
@@ -153,7 +153,12 @@ function createTagElemet(attribute, tagStr) {
                 document.querySelector("#result").innerHTML = ""
                 return
             }
-        } else {
+        }
+        else {
+          if (queryTagNum >= 10) {
+                alert("標籤數至多十個")
+                return
+            }
             tag.classList.add("tag-active")
             tag.classList.add("tag-" + attribute + "-active")
             queryTagNum++;
@@ -221,7 +226,7 @@ function filter() {
         let result = document.querySelector("#result")
         result.innerHTML = ""
 
-        for (let k = 5; k > 0; k--) {
+        for (let k = 10; k > 0; k--) {
             // generate combinations
             const queryTagsComb = Array.from(combinations(queryTags, k))
 
@@ -230,15 +235,10 @@ function filter() {
                 let appliedTags = []
                 // filter by class and time
                 var fChars
-                if (queryTags.includes("蔓綠絨"))
-                    fChars = enlistHour == 9 ? chars : chars.filter(char => char.grade == 3)
-                else if (queryTags.includes("觀音蓮"))
-                    fChars = enlistHour == 9 ? chars : chars.filter(char => char.grade == 2)
-                else
-                    fChars = enlistHour == 9 ? chars.filter(char => char.grade < 2) : chars.filter(char => char.grade < 3)
+                    fChars = enlistHour == 9 ? chars : chars.filter(char => char.grade <= 3)
 
-                // filter by type, temperature, light, body and oppai
-                for (let i = 0; i < 35; i++) {
+                // filter by plant_level, temperature, light, body and humidity
+                for (let i = 0; i < 10; i++) {
                     if (queryTags.length == 0 || fChars.length == 0)
                         break
                     charAttrs[i][1].forEach(attrTag => {
@@ -311,7 +311,7 @@ function filter() {
                     let temperatureCol = row.insertCell()
                     let appliedTagsCol = row.insertCell()
 
-                    row.setAttribute("class", survivor.type)
+                    row.setAttribute("class", survivor.plant_level)
                     nameCol.innerHTML = survivor.name
                     switch (survivor.grade) {
                         case 3:

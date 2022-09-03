@@ -1,9 +1,9 @@
 [
-    {"attribute": "class", "tags": ["花燭", "觀音蓮", "蔓綠絨"]},
-    {"attribute": "type", "tags": ["火屬性", "水屬性", "風屬性", "光屬性", "闇屬性"]},
+    {"attribute": "plant_level", "tags": ["簡單", "進階", "困難"]},
+    {"attribute": "plant_type", "tags": ["地生", "需攀爬", "可懸吊"]},
+    {"attribute": "humidity", "tags": ["可耐低濕", "普通", "需高濕"]},
     {"attribute": "temperature", "tags": ["很怕熱", "有點怕熱", "身強體壯", "有點怕冷", "很怕冷"]},
     {"attribute": "light", "tags": ["可低光照", "中等散射光", "明亮散射光"]},
     {"attribute": "body", "tags": ["小型", "中型", "大型"]},
-    {"attribute": "oppai", "tags": ["貧乳", "美乳", "巨乳"]},
-    {"attribute": "else", "tags": ["輸出", "保護", "防禦", "回復", "干擾", "支援", "削弱", "爆發力", "生存力", "越戰越強", "群體攻擊", "回擊"]}
+    {"attribute": "else", "tags": ["毛柄", "亮葉", "絨葉", "斑葉", "葉柄特殊", "葉脈特殊", "葉形特殊", "葉背特殊", "生長快速", "原生種", "園藝種"]}
 ]

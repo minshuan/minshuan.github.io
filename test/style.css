@@ -1,32 +1,30 @@
 :root[color-mode="light"] {
     --surface: #FFF8E1;
-    --primary: #fff;
+    --primary: #263238;
     --seconday: #fff;
-    --tab: gray;
+    --tab: #D7CCC8;
     --btn: #90CAF9;
     --border: gray;
     --shadow: gray;
     --hover-shadow: #BBDEFB;
     --hover-shadow-dark: #fff;
-    --text: #121212;
+    --text: #344146;
     --slider: #63a4ff;
-    --filter: #fff;
-    --type-fire: #ff6659;
-    --type-water: #5eb8ff;
-    --type-light: #fff263;
-    --type-dark: #d05ce3;
-    --type-wind: #6abf69;
-    --type: #1B5E20;
-    --temperature: #0D47A1;
+    --filter: #FFFCEC;
+    --type-fire-text: #EF9A9A;
+    --type-water-text: #5eb8ff;
+    --type-wind-text: #A5D6A7;
+    --plant_level: #1B5E20;
+    --temperature: #F48FB1;
     --light: #BF360C;
     --body: #F57F17;
-    --oppai: #AD1457;
-    --class: #827717;
-    --else: #3E2723;
+    --humidity: #90CAF9;
+    --plant_type: #827717;
+    --else: #CA8EC2;
 
     --color-mode-icon: url("./img/sun.svg");
-    --color-mode-icon-offset: 28px;
-    --tab-border: 1px;
+    --color-mode-icon-offset: 30px;
+    --tab-border: 2px;
 }
 
 :root[color-mode="dark"] {
@@ -47,21 +45,21 @@
     --type-light-text: #FFF59D;
     --type-dark-text: #CE93D8;
     --type-wind-text: #A5D6A7;
-    --type: #A5D6A7;
+    --plant_level: #A5D6A7;
     --temperature: #90CAF9;
     --light: #FFAB91;
     --body: #FFF9C4;
-    --oppai: #F48FB1;
-    --class: #E6EE9C;
+    --humidity: #F48FB1;
+    --plant_type: #E6EE9C;
     --else: #D7CCC8;
 
     --color-mode-icon: url("./img/moon.svg");
-    --color-mode-icon-offset: 6px;
+    --color-mode-icon-offset: 30px;
     --tab-border: 0px;
 }
 
 :root[color-mode="dark"] a {
-    color: var(--type-water-text);
+    color: var(--plant_level-water-text);
 }
 
 body{
@@ -88,7 +86,7 @@ body{
 }
 
 .menu-container {
-    padding: 12px;
+    padding: 20px;
 }
 
 .menu-list {
@@ -110,6 +108,11 @@ body{
 
 svg {
     stroke: var(--text);
+}
+
+#menu-text{
+    padding-right: 30px;
+    font-size: 30px; font-weight: bold;
 }
 
 #help-icon, #to-top-icon {
@@ -158,7 +161,7 @@ svg {
 }
 
 .modal-body {
-    font-size: medium;
+    font-size: 30px;
 }
 
 .close-modal {
@@ -226,6 +229,7 @@ input:checked + .slider:before {
     padding: 12px; margin-top: 56px;
     display: flex;
     justify-content: left;
+    font-size: 24px;
 }
 
 #filter-panel {
@@ -256,7 +260,7 @@ ul {
     display: flex;
     align-items: center;
     border-bottom: 1px solid var(--border);
-    padding-bottom: 8px;
+    padding-bottom: 5px;
 }
 
 .filter-title {
@@ -267,10 +271,11 @@ ul {
 .filter-title > label {
     margin-top: 4px;
     margin-bottom: 4px;
+    font-size: 20px;
 }
 
 .filter-icon {
-    height: 20px; width: 20px;
+    height: 30px; width: 30px;
     display: inline-block;
     vertical-align: bottom;
 }
@@ -285,6 +290,7 @@ select {
 }
 
 #delete-icon {
+    height: 30px; width: 30px;
     margin-right: 8px;
     cursor: pointer;
 }
@@ -295,19 +301,20 @@ select {
 
 .tag-icon {
     margin-right: 8px;
-    width: 20px; height: 20px;
+    width: 30px; height: 30px;
 }
 
 #tag-container {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     white-space: nowrap;
+
 }
 
 .tag {
-    padding: 4px; margin: 4px;
+    padding: 5px; margin: 5px;
     cursor: pointer;
-    border-radius: 4px;
+    border-radius: 10px;
 }
 
 .tag:hover {
@@ -322,7 +329,7 @@ select {
 }
 
 #result-container::-webkit-scrollbar {
-    width: 6px;
+    width: 1px;
 }
 
 table {
@@ -331,7 +338,7 @@ table {
     border-collapse: collapse;
     text-align: left;
     box-shadow: .1rem .1rem .15rem var(--shadow);
-    min-width: 400px;
+    min-width: 800px;
     width: 100%;
 }
 
@@ -399,28 +406,20 @@ td {
     opacity: 1;
 }
 
-.火屬性 {
+.困難 {
     background-color: var(--type-fire); color: var(--type-fire-text);
 }
 
-.水屬性 {
+.進階 {
     background-color: var(--type-water); color: var(--type-water-text);
 }
 
-.光屬性 {
-    background-color: var(--type-light); color: var(--type-light-text);
-}
-
-.闇屬性 {
-    background-color: var(--type-dark); color: var(--type-dark-text);
-}
-
-.風屬性 {
+.簡單 {
     background-color: var(--type-wind); color: var(--type-wind-text);
 }
 
-.tag-type {
-    color: var(--type);
+.tag-plant_level {
+    color: var(--plant_level);
 }
 
 .tag-temperature {
@@ -435,20 +434,20 @@ td {
     color: var(--body);
 }
 
-.tag-oppai {
-    color: var(--oppai);
+.tag-humidity {
+    color: var(--humidity);
 }
 
-.tag-class {
-    color: var(--class);
+.tag-plant_type {
+    color: var(--plant_type);
 }
 
 .tag-else {
     color: var(--else);
 }
 
-.tag-type-active {
-    background-color: var(--type);
+.tag-plant_level-active {
+    background-color: var(--plant_level);
 }
 
 .tag-temperature-active {
@@ -463,12 +462,12 @@ td {
     background-color: var(--body);
 }
 
-.tag-oppai-active {
-    background-color: var(--oppai);
+.tag-humidity-active {
+    background-color: var(--humidity);
 }
 
-.tag-class-active {
-    background-color: var(--class);
+.tag-plant_type-active {
+    background-color: var(--plant_type);
 }
 
 .tag-else-active {
