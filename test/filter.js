@@ -238,7 +238,7 @@ function filter() {
                     fChars = enlistHour == 9 ? chars.filter(char => char.grade < 2) : chars.filter(char => char.grade < 3)
 
                 // filter by type, temperature, light, body and oppai
-                for (let i = 0; i < 5; i++) {
+                for (let i = 0; i < 35; i++) {
                     if (queryTags.length == 0 || fChars.length == 0)
                         break
                     charAttrs[i][1].forEach(attrTag => {
@@ -306,6 +306,7 @@ function filter() {
 
                     let row = result.insertRow()
                     let nameCol = row.insertCell()
+                    let infoCol = row.insertCell()
                     let rarityCol = row.insertCell()
                     let temperatureCol = row.insertCell()
                     let appliedTagsCol = row.insertCell()
@@ -325,6 +326,7 @@ function filter() {
                         default:
                             rarityCol.innerHTML = "其他"
                     }
+                    infoCol.innerHTML = survivor.info
                     temperatureCol.innerHTML = survivor.temperature
                     appliedTagsCol.innerHTML = queryTagsStr
                     appliedTagsCol.style.cursor = "pointer"

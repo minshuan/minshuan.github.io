@@ -1,9 +1,9 @@
 [
+    {"attribute": "class", "tags": ["花燭", "觀音蓮", "蔓綠絨"]},
     {"attribute": "type", "tags": ["火屬性", "水屬性", "風屬性", "光屬性", "闇屬性"]},
-    {"attribute": "class", "tags": ["士兵", "觀音蓮", "蔓綠絨"]},
-    {"attribute": "temperature", "tags": ["很怕熱", "守護者", "治療者", "妨礙者", "輔助者"]},
-    {"attribute": "light", "tags": ["人類", "魔族", "亞人"]},
-    {"attribute": "body", "tags": ["小體型", "中體型"]},
+    {"attribute": "temperature", "tags": ["很怕熱", "有點怕熱", "身強體壯", "有點怕冷", "很怕冷"]},
+    {"attribute": "light", "tags": ["可低光照", "中等散射光", "明亮散射光"]},
+    {"attribute": "body", "tags": ["小型", "中型", "大型"]},
     {"attribute": "oppai", "tags": ["貧乳", "美乳", "巨乳"]},
     {"attribute": "else", "tags": ["輸出", "保護", "防禦", "回復", "干擾", "支援", "削弱", "爆發力", "生存力", "越戰越強", "群體攻擊", "回擊"]}
 ]
