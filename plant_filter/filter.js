@@ -68,10 +68,9 @@ window.onload = () => {
         .forEach(tag => {
             tag.classList.remove("tag-active")
             tag.classList.remove("tag-type-active")
-            tag.classList.remove("tag-category-active")
-            tag.classList.remove("tag-race-active")
+            tag.classList.remove("tag-light-active")
             tag.classList.remove("tag-body-active")
-            tag.classList.remove("tag-oppai-active")
+            tag.classList.remove("tag-humidity-active")
             tag.classList.remove("tag-rank-active")
             tag.classList.remove("tag-else-active")
             queryTagNum = 0
@@ -242,7 +241,7 @@ function filter() {
                 // filter by rank and time
                 var fChars
 
-                // filter by type, category, race, body and oppai
+                // filter by type, light, race, body and humidity
                 for (let i = 0; i < 5; i++) {
                     if (queryTags.length == 0 || fChars.length == 0)
                         break
@@ -312,7 +311,7 @@ function filter() {
                     let row = result.insertRow()
                     let nameCol = row.insertCell()
                     let rarityCol = row.insertCell()
-                    let categoryCol = row.insertCell()
+                    let lightCol = row.insertCell()
                     let appliedTagsCol = row.insertCell()
 
                     row.setAttribute("class", survivor.type)
@@ -330,7 +329,7 @@ function filter() {
                         default:
                             rarityCol.innerHTML = "N"
                     }
-                    categoryCol.innerHTML = survivor.category
+                    lightCol.innerHTML = survivor.light
                     appliedTagsCol.innerHTML = queryTagsStr
                     appliedTagsCol.style.cursor = "pointer"
 
