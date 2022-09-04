@@ -214,7 +214,7 @@ function filter() {
     .then(response => response.json())
     .then(tags => {
         charAttributes = tags
-        return fetch('./characters.json')
+        return fetch('./plant_tag.json')
     })
     .then(response => response.json())
     .then(chars => {
