@@ -155,8 +155,8 @@ function createTagElemet(attribute, tagStr) {
             }
         }
         else {
-          if (queryTagNum >= 10) {
-                alert("標籤數至多十個")
+          if (queryTagNum >= 7) {
+                alert("標籤數至多7個")
                 return
             }
             tag.classList.add("tag-active")
@@ -226,7 +226,7 @@ function filter() {
         let result = document.querySelector("#result")
         result.innerHTML = ""
 
-        for (let k = 10; k > 0; k--) {
+        for (let k = 5; k > 0; k--) {
             // generate combinations
             const queryTagsComb = Array.from(combinations(queryTags, k))
 
@@ -238,7 +238,7 @@ function filter() {
                     fChars = enlistHour == 9 ? chars : chars.filter(char => char.grade <= 3)
 
                 // filter by plant_level, temperature, light, body and humidity
-                for (let i = 0; i < 10; i++) {
+                for (let i = 0; i < 6; i++) {
                     if (queryTags.length == 0 || fChars.length == 0)
                         break
                     charAttrs[i][1].forEach(attrTag => {
