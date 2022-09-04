@@ -33,7 +33,7 @@ redirect_from:
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |*Pilodendron angustialutum*||長葉蔓綠絨|||[介紹](/philo_introduce/Pilodendron_angustialutum/)|
 |*Philodendron anisotomun*|||*Philodendron dagilla<br>Philodendron trisectum<br>Philodendron fenzlii*|
-|*Pilodendron applanatum*||平柄蔓綠絨||
+|*Philodendron applanatum*||平柄蔓綠絨||
 |*Philodendron atabapoense*||阿塔巴蔓綠絨<br>假聖靈蔓綠絨|||
 |*Philodendron billietiae*||橘柄蔓綠絨|||
 ||'black'|黑橘柄蔓綠絨|||
