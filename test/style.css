@@ -123,7 +123,7 @@ svg {
     fill: currentColor;
     cursor: pointer;
 }
-#home-icon, #to-top-icon {
+#h-icon, #to-top-icon {
     display: flex;
     width: 35px; height: 35px;
     stroke: none;
