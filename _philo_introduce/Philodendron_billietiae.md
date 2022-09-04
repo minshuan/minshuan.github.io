@@ -1,6 +1,6 @@
 ---
-title: "Philodendron billietiae"
-excerpt: "Philodendron billietiae<br/><img src='/images/600x579.png'>"
+title: "Philodendron billietiae 橘柄蔓綠絨"
+excerpt: "Philodendron billietiae 橘柄蔓綠絨<br/><img src='/images/600x579.png'>"
 collection: philo_introduce
 ---
 

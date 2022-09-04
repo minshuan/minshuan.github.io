@@ -1,6 +1,6 @@
 ---
-title: "Philodendron camposportoanum"
-excerpt: "Philodendron camposportoanum<br/><img src='/images/600x579.png'>"
+title: "Philodendron camposportoanum 兔耳蔓綠絨"
+excerpt: "Philodendron camposportoanum 兔耳蔓綠絨<br/><img src='/images/600x579.png'>"
 collection: philo_introduce
 ---
 

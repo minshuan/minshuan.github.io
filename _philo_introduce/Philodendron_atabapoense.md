@@ -1,6 +1,6 @@
 ---
-title: "Philodendron atabapoense"
-excerpt: "Philodendron atabapoense<br/><img src='/images/600x579.png'>"
+title: "Philodendron atabapoense 阿塔巴蔓綠絨"
+excerpt: "Philodendron atabapoense 阿塔巴蔓綠絨<br/><img src='/images/600x579.png'>"
 collection: philo_introduce
 ---
 

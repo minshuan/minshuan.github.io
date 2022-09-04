@@ -1,6 +1,6 @@
 ---
-title: "Philodendron bipennifolium"
-excerpt: "Philodendron bipennifolium<br/><img src='/images/600x579.png'>"
+title: "Philodendron bipennifolium 琴葉蔓綠絨"
+excerpt: "Philodendron bipennifolium 琴葉蔓綠絨<br/><img src='/images/600x579.png'>"
 collection: philo_introduce
 ---
 

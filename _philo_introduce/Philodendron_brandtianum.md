@@ -1,6 +1,6 @@
 ---
-title: "Philodendron brandtianum"
-excerpt: "Philodendron brandtianum<br/><img src='/images/600x579.png'>"
+title: "Philodendron brandtianum 白蘭地蔓綠絨"
+excerpt: "Philodendron brandtianum 白蘭地蔓綠絨<br/><img src='/images/600x579.png'>"
 collection: philo_introduce
 ---
 

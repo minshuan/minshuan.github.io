@@ -1,6 +1,6 @@
 ---
-title: "Philodendron callosum"
-excerpt: "Philodendron callosum<br/><img src='/images/600x579.png'>"
+title: "Philodendron callosum 粗肋蔓綠絨"
+excerpt: "Philodendron callosum 粗肋蔓綠絨<br/><img src='/images/600x579.png'>"
 collection: philo_introduce
 ---
 

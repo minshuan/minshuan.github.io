@@ -1,6 +1,6 @@
 ---
 title: "Pilodendron applanatum 平柄蔓綠絨"
-excerpt: "Pilodendron applanatum<br/><img src='/images/600x579.png'>"
+excerpt: "Pilodendron applanatum 平柄蔓綠絨<br/><img src='/images/600x579.png'>"
 collection: philo_introduce
 ---
 
