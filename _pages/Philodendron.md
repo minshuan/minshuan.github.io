@@ -43,7 +43,7 @@ redirect_from:
 |*Philodendron camposportoanum*||兔耳蔓綠絨|||
 |*Philodendron crassinervium*||粗肋蔓綠絨|*BraArum lanceolatum Vell.<br>Caladium platynervium<br>Philodendron lanceolatum<br>Philodendron planinervium*|
 |*Philodendron deflexum*||||
-|*Pilodendron distantilobum*||遠裂蔓綠絨||
+|*Philodendron distantilobum*||遠裂蔓綠絨||
 |*Philodendron ernestii*||恩氏蔓綠絨||
 |*Philodendron erubescens*||紅帝王蔓綠絨|||
 |*Philodendron esmeraldense*||ESM蔓綠絨|||
@@ -53,7 +53,7 @@ redirect_from:
 |*Philodendron genevievianum*|||
 |*Philodendron geniculatum*||||
 |*Philodendron giganteum*||大理石蔓綠絨||
-|*Pilodendron gigas*||牡蠣蔓綠絨|||
+|*Philodendron gigas*||牡蠣蔓綠絨|||
 |*Philodendron grazielae*||愛心蔓綠絨<br>腎葉蔓綠絨|||
 |*Philodendron hastatum*||銀箭蔓綠絨|*Philodendron disparile<br>Philodendron elongatum<br>Philodendron hastifolium<br>Philodendron simsii*|
 |*Philodendron hederaceum*||心葉蔓綠絨<br>桃心蔓綠絨|||

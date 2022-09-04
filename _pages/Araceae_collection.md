@@ -111,7 +111,7 @@ redirect_from:
 
 |編號|學名|品型|中文俗名|來源|同義詞|備註|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|1|*Pilodendron angustialutum*||長葉蔓綠絨|IMP. Peru||
+|1|*Philodendron angustialutum*||長葉蔓綠絨|IMP. Peru||
 |2|*Philodendron anisotomun*|||IMP. Costa Rica|*Philodendron dagilla<br>Philodendron trisectum<br>Philodendron fenzlii*|
 |3|*Pilodendron applanatum*||平柄蔓綠絨|IMP. Peru||
 |4|*Philodendron atabapoense*||阿塔巴蔓綠絨<br>假聖靈蔓綠絨|||
@@ -123,7 +123,7 @@ redirect_from:
 |10|*Philodendron camposportoanum*||兔耳蔓綠絨|||
 |11|*Philodendron crassinervium*||粗肋蔓綠絨|IMP.Brazil|*BraArum lanceolatum Vell.<br>Caladium platynervium<br>Philodendron lanceolatum<br>Philodendron planinervium*|
 |12|*Philodendron deflexum*|||IMP.Peru||
-|13|*Pilodendron distantilobum*||遠裂蔓綠絨|IMP.Brazil||
+|13|*Philodendron distantilobum*||遠裂蔓綠絨|IMP.Brazil||
 |14|*Philodendron ernestii*||恩氏蔓綠絨|IMP.Brazil||
 |15|*Philodendron erubescens*||紅帝王蔓綠絨|||
 |16|*Philodendron esmeraldense*||ESM蔓綠絨|||
@@ -133,7 +133,7 @@ redirect_from:
 |20|*Philodendron genevievianum*|||IMP.French Guiana||
 |21|*Philodendron geniculatum*|||||
 |22|*Philodendron giganteum*||大理石蔓綠絨|TC||
-|23|*Pilodendron gigas*||牡蠣蔓綠絨|||
+|23|*Philodendron gigas*||牡蠣蔓綠絨|||
 |24|*Philodendron grazielae*||愛心蔓綠絨<br>腎葉蔓綠絨|||
 |25|*Philodendron hastatum*||銀箭蔓綠絨||*Philodendron disparile<br>Philodendron elongatum<br>Philodendron hastifolium<br>Philodendron simsii*|
 |26|*Philodendron hederaceum*||心葉蔓綠絨<br>桃心蔓綠絨||||
