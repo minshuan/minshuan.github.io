@@ -31,7 +31,7 @@ redirect_from:
 
 |學名|品型|中文俗名|同義詞|備註|introduce|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|*Pilodendron angustialutum*||長葉蔓綠絨|||[介紹](/philo_introduce/Pilodendron_angustialutum/)|
+|*Philodendron angustialutum*||長葉蔓綠絨|||[介紹](/philo_introduce/Philodendron angustialutum/)|
 |*Philodendron anisotomun*|||*Philodendron dagilla<br>Philodendron trisectum<br>Philodendron fenzlii*|
 |*Philodendron applanatum*||平柄蔓綠絨||
 |*Philodendron atabapoense*||阿塔巴蔓綠絨<br>假聖靈蔓綠絨|||
