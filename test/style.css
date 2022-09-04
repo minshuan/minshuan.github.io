@@ -1,6 +1,6 @@
 :root[color-mode="light"] {
     --surface: #FFF8E1;
-    --primary: #263238;
+    --primary: #A5D6A7;
     --seconday: #fff;
     --tab: #D7CCC8;
     --btn: #90CAF9;
@@ -117,6 +117,13 @@ svg {
 }
 
 #help-icon, #to-top-icon {
+    display: flex;
+    width: 35px; height: 35px;
+    stroke: none;
+    fill: currentColor;
+    cursor: pointer;
+}
+#home-icon, #to-top-icon {
     display: flex;
     width: 35px; height: 35px;
     stroke: none;
