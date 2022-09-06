@@ -220,7 +220,7 @@ redirect_from:
 |85|*Philodendron hederaceum* 'rio'|里約蔓綠絨|||
 |86|*Philodendron imbe* 'Burle Marx'|獨角獸蔓綠絨|||
 |87|*Philodendron imbe* 'Burle Marx var.'|斑葉獨角獸蔓綠絨|||
-|88|*Philodendron minarum*||金龍蔓綠絨||*Philodendron* 'golden dragon'|
+|88|*Philodendron minarum*|金龍蔓綠絨||*Philodendron* 'golden dragon'|
 |89|*Philodendron* 'Splendid'|華麗蔓綠絨<br>花交絨蔓綠絨||*Philodendron verrucosum*<br>x<br>*Philodendron  melanochrysum*|
 |90|*Philodendron pedatum* 'glad hands'|快樂手龍爪蔓綠絨|||
 |91|*Philodendron pedatum* 'quercifolium'|細葉龍爪蔓綠絨|||
