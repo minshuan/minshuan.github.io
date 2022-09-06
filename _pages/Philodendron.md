@@ -63,11 +63,10 @@ redirect_from:
 |*Philodendron linnaei*|||Philodendron decurrens<br>Philodendron nobile<br>Philodendron notabile|
 |*Philodendron lupinum*||||
 |*Philodendron maximum*||巨大蔓綠絨||
-|*Philodendron mayoi*|瑪友蔓綠絨||
+|*Philodendron mayoi*||瑪友蔓綠絨||
 |*Philodendron megalophyllum*|||*Anthurium stahelii*|
 |*Philodendron melanochrysum*|絨葉蔓綠絨||*Philodendron andreanum<br>Philodendron grandidens*|
 |*Philodendron mexicanum*||墨西哥蔓綠絨|*Philodendron latisagittium*|
-|*Philodendron minarum*||金龍蔓綠絨|*Philodendron* 'golden dragon'|
 |*Philodendron panduriforme*||爪葉蔓綠絨|*Philodendron latilobum<br>Pothos panduriformis*|
 |*Philodendron pedatum*||綠龍爪蔓綠絨|*Caladium pedatum<br>Dracontium laciniatum<br>Philodendron amazonicum<br>Philodendron duisbergii<br>Philodendron laciniatum<br>Philodendron laciniosum <br>Philodendron polypodioides<br>Philodendron quercifolium<br>Philodendron weddellianum*|
 |*Philodendron radiatum*||拉迪亞蔓綠絨<br>輻射蔓綠絨|*Philodendron augustinum<br>Philodendron impolitum<br>Philodendron polytomum*|
@@ -141,6 +140,7 @@ redirect_from:
 |*Philodendron hederaceum* 'rio'|里約蔓綠絨|||
 |*Philodendron imbe* 'Burle Marx'|獨角獸蔓綠絨|||
 |*Philodendron imbe* 'Burle Marx var.'|斑葉獨角獸蔓綠絨|||
+|*Philodendron minarum*||金龍蔓綠絨|*Philodendron* 'golden dragon'|
 |*Philodendron* 'Splendid'|華麗蔓綠絨<br>花交絨蔓綠絨||*Philodendron verrucosum*<br>x<br>*Philodendron  melanochrysum*|
 |*Philodendron pedatum* 'glad hands'|快樂手龍爪蔓綠絨|||
 |*Philodendron pedatum* 'quercifolium'|細葉龍爪蔓綠絨|||
