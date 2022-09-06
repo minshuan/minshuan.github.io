@@ -72,11 +72,11 @@ redirect_from:
 |*Philodendron radiatum*||拉迪亞蔓綠絨<br>輻射蔓綠絨|*Philodendron augustinum<br>Philodendron impolitum<br>Philodendron polytomum*|
 |*Philodendron ruizii*||||
 |*Philodendron scherberichii*||||
+|*Philodendron serpens*||蛇氏蔓綠絨||
 |*Philodendron sharroniae*||沙倫蔓綠絨<br>長葉洗衣板蔓綠絨||
 ||'san antonio'<br>'goat'|||
 ||'Mosquera'|||
 |*Philodendron smithii*||||
-||*Philodendron serpens*||蛇氏蔓綠絨||
 |*Philodendron squamiferum*||鱗葉蔓綠絨<br>紅毛柄蔓綠絨|*Philodendron aceriferum<br>Philodendron crinipes<br>Philodendron crinitum*|
 |*Philodendron stenolobum*||狹葉蔓綠絨<br>羊角蔓綠絨|||
 |*Philodendron subhastatum*||紅背蔓綠絨|*Philodendron hastatum*|
