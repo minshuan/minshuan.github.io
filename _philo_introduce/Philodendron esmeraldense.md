@@ -6,7 +6,7 @@ collection: philo_introduce
 
 ### Philodendron esmeraldense ESM蔓綠絨 照顧總結
 
-|**難易度**| 中等容易 |
+|**難易度**| 中等偏容易 |
 |:-:|:-:|
 |**濕度**|60%-80%|
 |**溫度**|20°C-30°C|
