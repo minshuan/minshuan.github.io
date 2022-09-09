@@ -1,7 +1,7 @@
 [
-    {"attribute": "plant_level", "tags": ["簡單", "進階", "困難"]},
+    {"attribute": "plant_level", "tags": ["簡單", "中等", "困難"]},
     {"attribute": "plant_type", "tags": ["地生", "需攀爬", "可懸吊"]},
-    {"attribute": "humidity", "tags": ["可耐低濕", "普通", "需高濕"]},
+    {"attribute": "humidity", "tags": ["可耐低濕", "普通", "需高溼"]},
     {"attribute": "temperature", "tags": ["很怕熱", "有點怕熱", "身強體壯", "有點怕冷", "很怕冷"]},
     {"attribute": "light", "tags": ["可低光照", "中等散射光", "明亮散射光"]},
     {"attribute": "body", "tags": ["小型", "中型", "大型"]},

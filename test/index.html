@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 
 <!-- {"name": "test", "grade": 3, "plant_level": "", "plant_type": "", "info": "", "humidity": "", "temperature": "" , "light": "",  "body": "", "tags":} -->
-<html color-mode="light">
+<html color-mode="dark">
 
 <head>
   <meta charset="utf-8">
@@ -38,6 +38,12 @@
         <li class="title">
           <span id="menu-text">植物篩選器 prototype</span>
           <a href="https://minshuan.github.io/" target="_blank">回到主頁</a>
+        </li>
+        <!-- tags -->
+        <li>
+          <svg id="tags-icon" xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 10 10" viewBox="0 0 24 24">
+            <image href="./img/tags.png" x="0" y="1" height="20" width="20" />
+          </svg>
         </li>
         <li>
           <svg id="help-icon" xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 10 10" viewBox="0 0 24 24">
@@ -181,6 +187,78 @@
       </div>
     </div>
   </div>
+  <!-- tags -->
+  <div id="tags-modal" class="modal-container">
+    <div class="modal-content">
+      <div class="modal-head">
+        <span id="close-tags-modal" class="close-modal">&times;</span>
+        <span>標籤說明</span>
+      </div>
+      <div class="modal-body">
+        <p>所顯示的標籤代表最低適應性</p>
+        <p>為個人經驗以及國內外普遍認知的適應狀況,僅供參考</p>
+        <p>適應為"種的好" 能展現植株應有型態而"非"種的活"</p>
+      </div>
+      <div class="modal-head">
+        <span>標籤解釋</span>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10" class="filter-icon" id="plant_level-icon">
+          <image href="./img/watering-plants.png" x="0" y="0" height="10" width="10" />
+        </svg>
+      </div>
+      <div class="modal-body">
+        <p>簡單: 適合新手或是剛接觸的玩家種植</p>
+        <p>普通: 種植上需注意一些細節才能展現良好型態</p>
+        <p>困難: 難以馴化,需營造特定環境才能夠存活</p>
+      </div>
+      <div class="modal-head">
+        <span>標籤解釋</span>
+        <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 24 24" class="filter-icon" id="plant_type-icon">
+          <image href="./img/philodendron.png" x="0" y="0" height="24" width="24" />
+        </svg>
+      </div>
+      <div class="modal-body">
+        <p>地生: 適合長盆或地植</p>
+        <p>需攀爬: 需要攀爬住才能展現型態</p>
+        <p>可懸吊: 可作為吊掛盆栽依然生長良好</p>
+      </div>
+      <div class="modal-head">
+        <span>標籤解釋</span>
+        <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 10 10" class="filter-icon" id="humidity-icon">
+          <image href="./img/humidity.png" x="0" y="0" height="10" width="10" />
+        </svg>
+      </div>
+      <div class="modal-body">
+        <p>可耐低濕: 可承受40%左右的空氣溼度(普遍冷氣房無加溼)</p>
+        <p>普通: 盡可能維持50%-60%的空氣濕度</p>
+        <p>需高溼: 必須維持在60%的空氣濕度以上</p>
+      </div>
+      <div class="modal-head">
+        <span>標籤解釋</span>
+        <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 10 10" class="filter-icon" id="temperature-icon">
+          <image href="./img/thermometer.png" x="0" y="0" height="10" width="10" />
+        </svg>
+      </div>
+      <div class="modal-body">
+        <p>很怕熱: 環境需低於30度</p>
+        <p>有點怕熱: 可忍受30度-40度，但時間不宜過長</p>
+        <p>身強體壯: 在15度-40度仍可生長</p>
+        <p>有點怕冷: 環境不宜低於15度</p>
+        <p>很怕冷: 環境不宜低於20度</p>
+      </div>
+      <div class="modal-head">
+        <span>標籤解釋</span>
+        <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 10 10" class="filter-icon" id="light-icon">
+          <image href="./img/sun.png" x="0" y="0" height="10" width="10" />
+        </svg>
+      </div>
+      <div class="modal-body">
+        <p>可低光照: 可忍受低於遮陰50%的光照</p>
+        <p>中等散射光: 遮陰50%的光照</p>
+        <p>明亮散射光: 遮陰70%的光照</p>
+      </div>
+    </div>
+  </div>
+
   <div style="display: none;">
     <!-- <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="star-icon">
       <g stroke="none" fill="currentColor">

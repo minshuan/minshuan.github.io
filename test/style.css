@@ -116,13 +116,14 @@ svg {
     font-size: 30px; font-weight: bold;
 }
 
-#help-icon, #to-top-icon {
+#tags-icon, #help-icon, #to-top-icon {
     display: flex;
     width: 35px; height: 35px;
     stroke: none;
     fill: currentColor;
     cursor: pointer;
 }
+
 #h-icon, #to-top-icon {
     display: flex;
     width: 35px; height: 35px;
@@ -421,7 +422,7 @@ td {
     background-color: var(--type-fire); color: var(--type-fire-text);
 }
 
-.進階 {
+.中等 {
     background-color: var(--type-water); color: var(--type-water-text);
 }
 

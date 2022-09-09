@@ -41,6 +41,16 @@ window.onload = () => {
         helpModal.style.display = "none"
     })
 
+    let tagsModal = document.querySelector("#tags-modal")
+    document.querySelector("#tags-icon").addEventListener("click", () => {
+        tagsModal.style.display = "block"
+    })
+
+    // close help modal button
+    document.querySelector("#close-tags-modal").addEventListener("click", () => {
+        tagsModal.style.display = "none"
+    })
+
     // back to top button
     document.querySelector("#to-top-icon").addEventListener("click", () => {
         document.body.scrollTop = 0 // For Safari
