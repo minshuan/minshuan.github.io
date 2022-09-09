@@ -248,7 +248,7 @@ function filter() {
                     fChars = enlistHour == 9 ? chars : chars.filter(char => char.grade <= 3)
 
                 // filter by plant_level, temperature, light, body and humidity
-                for (let i = 0; i < 6; i++) {
+                for (let i = 0; i < 5; i++) {
                     if (queryTags.length == 0 || fChars.length == 0)
                         break
                     charAttrs[i][1].forEach(attrTag => {
@@ -344,7 +344,7 @@ function filter() {
             })
         }
         // sort results by rarity
-        sortTable(document.querySelector("#rarity"), false)
+        // sortTable(document.querySelector("#rarity"), false)
     })
 }
 
