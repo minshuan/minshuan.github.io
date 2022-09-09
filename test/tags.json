@@ -1,9 +1,13 @@
 [
     {"attribute": "plant_level", "tags": ["簡單", "中等", "困難"]},
     {"attribute": "plant_type", "tags": ["地生", "需攀爬", "可懸吊"]},
+<<<<<<< HEAD
     {"attribute": "humidity", "tags": ["可耐低濕", "普通", "需高溼"]},
+=======
+    {"attribute": "humidity", "tags": ["可耐低濕", "普通", "高濕"]},
+>>>>>>> a3dce9de1fcfbc67b7d41b19968bf9f01e5876cd
     {"attribute": "temperature", "tags": ["很怕熱", "有點怕熱", "身強體壯", "有點怕冷", "很怕冷"]},
-    {"attribute": "light", "tags": ["可低光照", "中等散射光", "明亮散射光"]},
+    {"attribute": "light", "tags": ["微弱散射光", "中等散射光", "明亮散射光"]},
     {"attribute": "body", "tags": ["小型", "中型", "大型"]},
     {"attribute": "else", "tags": ["亮葉", "絨葉", "斑葉", "葉柄特殊", "葉面特殊", "葉脈特殊", "長葉種", "短葉種", "葉形特殊", "葉背特殊", "原生種", "園藝種", "交種"]}
 ]
