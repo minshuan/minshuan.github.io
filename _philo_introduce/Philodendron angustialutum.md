@@ -1,6 +1,6 @@
 ---
 title: "Pilodendron angustialutum"
-excerpt: "Pilodendron angustialutum<br/><img src='https://i.etsystatic.com/29825396/r/il/2fb033/3336075217/il_fullxfull.3336075217_3dmx.jpg'>"
+excerpt: "Pilodendron angustialutum<br/><img src='https://i.etsystatic.com/29825396/r/il/2fb033/3336075217/il_fullxfull.3336075217_3dmx.jpg' width="500" >"
 collection: philo_introduce
 ---
 
