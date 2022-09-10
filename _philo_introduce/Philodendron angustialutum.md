@@ -6,6 +6,8 @@ collection: philo_introduce
 
 ### Pilodendron angustialutum 照顧總結
 
+![](https://i.etsystatic.com/29825396/r/il/2fb033/3336075217/il_fullxfull.3336075217_3dmx.jpg)
+
 |**難易度**|中等偏容易 |
 |:-:|-|
 |**濕度**|60%-80%|
@@ -21,8 +23,7 @@ collection: philo_introduce
 由德國知名植物學家阿道夫·恩格勒(Heinrich Gustav Adolf Engler) 於1905年發表於Bot. Jahrb.期刊
 
 ## 特徵
-
-![](https://i.etsystatic.com/29825396/r/il/2fb033/3336075217/il_fullxfull.3336075217_3dmx.jpg)
+[圖片待補]
 莖節: 間節長度可達10公分，寬1公分<br>
 葉炳: 具短葉鞘，葉柄可長達10公分<br>
 葉片: 成葉為長圓狀披針形，葉尖些許向下彎曲，主葉脈每側約9條，次脈細長且密集，成45°向外發散，葉緣有些許波浪狀<br>
