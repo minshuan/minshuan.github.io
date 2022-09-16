@@ -16,8 +16,11 @@ main:
   - title: "Philo介紹"
     url: /philo_introduce/
 
-  - title: "植物篩選器 / plant filter"
+  - title: "植物篩選器 / Plant filter"
     url: /plant_filter/
+
+  - title: "意見回饋 / Feedback"
+    url: "https://forms.gle/ykkzY8VJixVG8wYQA"
 
   # - title: "Talks"
   #   url: /talks/
