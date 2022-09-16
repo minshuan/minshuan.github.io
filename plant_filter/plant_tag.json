@@ -1,5 +1,5 @@
 [
-    {"name": "長葉蔓綠絨 Philodendron angustialutum", "grade": 3, "plant_level": "中等", "plant_type": "需攀爬", "info": "<a href= /philo_introduce/Philodendron%20angustialutum/ >介紹</a>", "humidity": "高溼", "temperature": "有點怕冷" , "light": "明亮散射光", "body": "中型", "tags": ["亮葉", "長葉種", "原生種"]},
+    {"name": "長葉蔓綠絨 Philodendron angustialutum", "grade": 3, "plant_level": "中等", "plant_type": "需攀爬", "info": "<a href= /philo_introduce/Philodendron%20angustialutum/ >介紹</a>", "humidity": "高溼", "temperature": "有點怕冷" , "light": "明亮散射光", "body": "中型", "tags": ["亮葉", "長葉種", "原生種", "中型"]},
     {"name": "平柄蔓綠絨 Philodendron applanatum", "grade": 3, "plant_level": "簡單", "plant_type": "需攀爬", "info": "<a href= /philo_introduce/Philodendron%20applanatum/ >介紹</a>", "humidity": "普通", "temperature": "有點怕冷", "light": "明亮散射光", "body": "中型", "tags": ["亮葉", "葉形特殊", "葉柄特殊", "原生種"]},
     {"name": "阿塔巴蔓綠絨 Philodendron atabapoense", "grade": 3, "plant_level": "簡單", "plant_type": "需攀爬", "info": "<a href= /philo_introduce/Philodendron%20atabapoense/ >介紹</a>", "humidity": "普通", "temperature": "身強體壯", "light": "明亮散射光", "body": "中型", "tags": ["亮葉", "葉背特殊", "原生種"]},
     {"name": "橘柄蔓綠絨 Philodendron billietiae", "grade": 3, "plant_level": "簡單", "plant_type": "需攀爬", "info": "<a href= /philo_introduce/Philodendron%20billietiae/ >介紹</a>", "humidity": "普通", "temperature": "身強體壯", "light": "明亮散射光", "body": "中型", "tags": ["亮葉", "葉柄特殊", "原生種"]},
@@ -56,7 +56,7 @@
     {"name": "錦緞蔓綠絨 Philodendron gloriosum", "grade": 3, "plant_level": "簡單", "plant_type": "需攀爬", "info": "<a href= /philo_introduce/Philodendron%20gloriosum/ >介紹</a>", "humidity": "普通" , "temperature": "有點怕冷", "light": ["微弱散射光", "中等散射光", "明亮散射光"], "body": "中型", "tags": ["葉脈特殊", "絨葉", "原生種"]},
     {"name": "白雲蔓綠絨 Philodendron mamei", "grade": 3, "plant_level": "簡單", "plant_type": "需攀爬", "info": "<a href= /philo_introduce/Philodendron%20mamei/ >介紹</a>", "humidity": "普通" , "temperature": "有點怕冷", "light": ["微弱散射光", "中等散射光", "明亮散射光"], "body": "中型", "tags": ["葉面特殊", "葉柄特殊", "亮葉", "原生種"]},
     {"name": "泡泡蔓綠絨 Philodendron martianum", "grade": 3, "plant_level": "簡單", "plant_type": "需攀爬", "info": "<a href= /philo_introduce/Philodendron%20martianum/ >介紹</a>", "humidity": "普通" , "temperature": "有點怕冷", "light": ["微弱散射光", "中等散射光", "明亮散射光"], "body": "中型", "tags": ["長葉種", "葉柄特殊", "亮葉", "原生種"]},
-    
+
 
     {"name": "絨葉觀音蓮 Alocasia micholitziana", "grade": 2, "plant_level": "簡單", "plant_type": "地生", "temperature": "很怕冷" , "light": "中等散射光",  "body": "中型", "humidity": "普通", "tags": ["絨葉", "地生", "原生種"]},
     {"name": "斑葉絨葉觀音蓮 Alocasia micholitziana var.", "grade": 2, "plant_level": "簡單", "plant_type": "地生", "temperature": "很怕冷" , "light": "中等散射光",  "body": "中型", "humidity": "普通", "tags": ["絨葉", "斑葉", "地生", "原生種"]},
