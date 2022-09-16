@@ -17,7 +17,7 @@ main:
     url: /philo_introduce/
 
   - title: "植物篩選器 / plant_filter"
-    url: /plant_filter/
+    url: /test/
 
   # - title: "Talks"
   #   url: /talks/
